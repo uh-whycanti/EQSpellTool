@@ -16,3 +16,4 @@ mono_crash.*.json
 
 # Project-specific ignores
 _export/
+_tmp/

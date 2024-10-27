@@ -33,6 +33,7 @@ const MAX_RETRIES = 3
 const RETRY_DELAY = 5.0
 const REQUEST_DELAY = 1.5
 var current_file_key : String = ""
+var tween: Tween
 
 var color_column1 = Color("#d79921")
 var color_column2 = Color("#ebdbb2")
@@ -58,6 +59,7 @@ var color_column3 = Color("#928374")
 @onready var popup_panel: PopupPanel = %PopupPanel
 @onready var label_cloud: Label = %LabelCloud
 @onready var label_v: Label = %LabelV
+@onready var label_pop: Label = %LabelPop
 
 @onready var bard: AnimatedSprite2D = %Bard
 @onready var beastlord: AnimatedSprite2D = %Beastlord
@@ -97,6 +99,9 @@ func _ready() -> void:
 	check_settings_file()
 	var version = ProjectSettings.get_setting("application/config/version")
 	label_v.text = "v " + str(version) + " "
+	label_pop.visible = false
+	label_pop.modulate.a = 1.0
+	label_pop.mouse_filter = Control.MOUSE_FILTER_IGNORE
 
 func _on_item_selected(id: int):
 	var item_text = menu_button_exp.get_popup().get_item_text(id)
@@ -311,6 +316,7 @@ func remove_inventory_from_itemlist() -> void:
 	var content = file.get_as_text()
 	file.close()
 	var lines = content.split("\n")
+	var removed_count = 0
 	for line in lines:
 		if line.contains("Spell:"):
 			var spell_start = line.find("Spell:") + 6
@@ -322,9 +328,11 @@ func remove_inventory_from_itemlist() -> void:
 					item_list.remove_item(i + 2)
 					item_list.remove_item(i + 1)
 					item_list.remove_item(i)
+					removed_count += 3
 					print("Removed line: ", item_text)
 					break
 	update_missing_count()
+	show_at_mouse("Removed " + str(removed_count/3) + " spells found")
 
 func _on_button_close_cfg_pressed() -> void:
 	save_game_dir()
@@ -1549,3 +1557,26 @@ func _on_request_completed(result, response_code, headers, body):
 
 func _on_button_cloud_pressed() -> void:
 	update_spell_files()
+
+func _on_item_list_item_activated(index: int) -> void:
+	var text_to_copy = item_list.get_item_text(index)
+	DisplayServer.clipboard_set(text_to_copy)
+	print("Copied to clipboard: ", text_to_copy)
+	show_at_mouse("Copied to clipboard")
+func _on_item_list_spells_item_activated(index: int) -> void:
+	var text_to_copy = item_list_spells.get_item_text(index)
+	DisplayServer.clipboard_set(text_to_copy)
+	print("Copied to clipboard: ", text_to_copy)
+	show_at_mouse("Copied to clipboard")
+
+func show_at_mouse(text: String) -> void:
+	if tween:
+		tween.kill()
+	label_pop.text = text
+	label_pop.position = get_viewport().get_mouse_position()
+	label_pop.visible = true
+	label_pop.modulate.a = 1.0
+	tween = create_tween()
+	tween.tween_interval(3.0)
+	tween.tween_property(label_pop, "modulate:a", 0.0, 0.5)
+	tween.finished.connect(func(): label_pop.visible = false )

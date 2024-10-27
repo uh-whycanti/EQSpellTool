@@ -1,4 +1,4 @@
-[gd_scene load_steps=36 format=3 uid="uid://5uj3n0s8lrfc"]
+[gd_scene load_steps=37 format=3 uid="uid://5uj3n0s8lrfc"]
 
 [ext_resource type="Script" path="res://node.gd" id="1_2jdkj"]
 [ext_resource type="SpriteFrames" uid="uid://cgc4baeu26pvp" path="res://Bard.gif" id="2_4a67k"]
@@ -52,6 +52,13 @@ shadow_offset = Vector2(3, 3)
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_dwem2"]
 
 [sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_1ohxn"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_yjsgq"]
+content_margin_left = 6.0
+content_margin_top = 4.0
+content_margin_right = 5.0
+content_margin_bottom = 4.0
+bg_color = Color(0.111197, 0.111197, 0.111197, 1)
 
 [node name="Node" type="Node"]
 script = ExtResource("1_2jdkj")
@@ -684,8 +691,29 @@ text = "update"
 horizontal_alignment = 2
 vertical_alignment = 2
 
+[node name="LabelPop" type="Label" parent="."]
+unique_name_in_owner = true
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -58.0
+offset_top = -23.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_colors/font_color = Color(0.407843, 0.490196, 0.415686, 1)
+theme_override_constants/shadow_offset_x = 1
+theme_override_constants/shadow_offset_y = 1
+theme_override_constants/outline_size = 1
+theme_override_fonts/font = ExtResource("21_1u0a3")
+theme_override_styles/normal = SubResource("StyleBoxFlat_yjsgq")
+horizontal_alignment = 1
+vertical_alignment = 1
+
 [connection signal="dir_selected" from="FileDialogGameDir" to="." method="_on_file_dialog_game_dir_dir_selected"]
 [connection signal="item_selected" from="MarginContainer/HBoxContainer/VBoxContainer/HBoxContainer/MarginContainer/ItemListFiles" to="." method="_on_item_list_files_item_selected"]
+[connection signal="item_activated" from="MarginContainer/HBoxContainer/VBoxContainer/ItemListSpells" to="." method="_on_item_list_spells_item_activated"]
 [connection signal="pressed" from="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer/ButtonBeastlord" to="." method="_on_button_beastlord_pressed"]
 [connection signal="pressed" from="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer/ButtonBerserker" to="." method="_on_button_berserker_pressed"]
 [connection signal="pressed" from="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer/ButtonCleric" to="." method="_on_button_cleric_pressed"]
@@ -699,6 +727,7 @@ vertical_alignment = 2
 [connection signal="pressed" from="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer/ButtonShaman" to="." method="_on_button_shaman_pressed"]
 [connection signal="pressed" from="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer/ButtonWarrior" to="." method="_on_button_warrior_pressed"]
 [connection signal="pressed" from="MarginContainer/HBoxContainer/MarginContainer/Panel/VBoxContainer/ButtonWizard" to="." method="_on_button_wizard_pressed"]
+[connection signal="item_activated" from="MarginContainer/HBoxContainer/MarginContainer/ItemList" to="." method="_on_item_list_item_activated"]
 [connection signal="pressed" from="ButtonUpdate" to="." method="_on_button_update_pressed"]
 [connection signal="pressed" from="ButtonInfo" to="." method="_on_button_info_pressed"]
 [connection signal="pressed" from="ButtonBag" to="." method="_on_button_bag_pressed"]
