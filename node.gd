@@ -2,23 +2,130 @@ extends Node
 
 const CONFIG_FILE_PATH = "user://settings.cfg"
 const SPELL_FILES = {
-	"BRD": "res://BRD_spells.txt",
-	"BER": "res://BER_spells.txt",
-	"BST": "res://BST_spells.txt",
-	"CLR": "res://CLR_spells.txt",
-	"ENC": "res://ENC_spells.txt",
-	"NEC": "res://NEC_spells.txt",
-	"MAG": "res://MAG_spells.txt",
-	"MNK": "res://MNK_spells.txt",
-	"PAL": "res://PAL_spells.txt",
-	"RNG": "res://RNG_spells.txt",
-	"ROG": "res://ROG_spells.txt",
-	"SHD": "res://SHD_spells.txt",
-	"SHM": "res://SHM_spells.txt",
-	"WAR": "res://WAR_spells.txt",
-	"WIZ": "res://WIZ_spells.txt",
-	"DRU": "res://DRU_spells.txt",
+	"BRD": "res://BRD_spells.json",
+	"BER": "res://BER_spells.json",
+	"BST": "res://BST_spells.json",
+	"CLR": "res://CLR_spells.json",
+	"ENC": "res://ENC_spells.json",
+	"NEC": "res://NEC_spells.json",
+	"MAG": "res://MAG_spells.json",
+	"MNK": "res://MNK_spells.json",
+	"PAL": "res://PAL_spells.json",
+	"RNG": "res://RNG_spells.json",
+	"ROG": "res://ROG_spells.json",
+	"SHD": "res://SHD_spells.json",
+	"SHM": "res://SHM_spells.json",
+	"WAR": "res://WAR_spells.json",
+	"WIZ": "res://WIZ_spells.json",
+	"DRU": "res://DRU_spells.json",
 	"EXP": "res://EXP_list.txt"
+}
+
+# Expansion order for filtering (index-based comparison)
+const EXPANSION_ORDER = [
+	"EQ", "KUNARK", "VELIOUS", "LUCLIN", "POP", "LOY", "LDON",
+	"GATES", "OMENS", "DON", "DOD", "POR", "TSS", "TBS", "SOF",
+	"SOD", "UF", "HOT", "VOA", "ROF", "COTF", "TDS", "TBM",
+	"EOK", "ROS", "TBL", "TOV", "COV", "TOL", "NOS", "LS"
+]
+
+# Map display names to expansion codes
+const EXPANSION_NAMES = {
+	"EverQuest": "EQ",
+	"The Ruins of Kunark": "KUNARK",
+	"The Scars of Velious": "VELIOUS",
+	"The Shadows of Luclin": "LUCLIN",
+	"The Planes of Power": "POP",
+	"The Legacy of Ykesha": "LOY",
+	"Lost Dungeons of Norrath": "LDON",
+	"Gates of Discord": "GATES",
+	"Omens of War": "OMENS",
+	"Dragons of Norrath": "DON",
+	"Depths of Darkhollow": "DOD",
+	"Prophecy of Ro": "POR",
+	"The Serpents Spine": "TSS",
+	"The Buried Sea": "TBS",
+	"Secrets of Faydwer": "SOF",
+	"Seeds of Destruction": "SOD",
+	"Underfoot": "UF",
+	"House of Thule": "HOT",
+	"Veil of Alaris": "VOA",
+	"Rain of Fear": "ROF",
+	"Call of the Forsaken": "COTF",
+	"The Darkened Sea": "TDS",
+	"The Broken Mirror": "TBM",
+	"Empires of Kunark": "EOK",
+	"Ring of Scale": "ROS",
+	"The Burning Lands": "TBL",
+	"Torment of Velious": "TOV",
+	"Claws of Veeshan": "COV",
+	"Terror of Luclin": "TOL",
+	"Night of Shadows": "NOS",
+	"Laurions Song": "LS"
+}
+
+# Map zone names to the expansion they were introduced in
+const ZONE_EXPANSIONS = {
+	# Original EQ zones
+	"Ak'Anon": "EQ",
+	"Butcherblock Mountains": "EQ",
+	"Commonlands": "EQ",
+	"East Freeport": "EQ",
+	"Erudin": "EQ",
+	"Erudin Palace": "EQ",
+	"Everfrost Peaks": "EQ",
+	"Greater Faydark": "EQ",
+	"Grobb": "EQ",
+	"Halas": "EQ",
+	"Innothule Swamp": "EQ",
+	"Lavastorm Mountains": "EQ",
+	"Lesser Faydark": "EQ",
+	"Neriak Commons": "EQ",
+	"Neriak Third Gate": "EQ",
+	"North Kaladim": "EQ",
+	"North Karana": "EQ",
+	"North Qeynos": "EQ",
+	"North Ro": "EQ",
+	"Northern Felwithe": "EQ",
+	"Ocean of Tears": "EQ",
+	"Oggok": "EQ",
+	"Paineel": "EQ",
+	"Qeynos Catacombs": "EQ",
+	"Rivervale": "EQ",
+	"South Qeynos": "EQ",
+	"South Ro": "EQ",
+	"Southern Felwithe": "EQ",
+	"Steamfont Mountains": "EQ",
+	"Surefall Glade": "EQ",
+	"The Rathe Mountains": "EQ",
+	"West Freeport": "EQ",
+	# Kunark zones
+	"Cabilis East": "KUNARK",
+	"West Cabilis": "KUNARK",
+	"Firiona Vie": "KUNARK",
+	"The Overthere": "KUNARK",
+	# Velious zones
+	"Iceclad Ocean": "VELIOUS",
+	"Skyshrine": "VELIOUS",
+	"Thurgadin": "VELIOUS",
+	"Wakening Land": "VELIOUS",
+	# Luclin zones
+	"Katta Castellum": "LUCLIN",
+	"Sanctus Seru": "LUCLIN",
+	"Shadow Haven": "LUCLIN",
+	"Shar Vahl": "LUCLIN",
+	"The Bazaar": "LUCLIN",
+	# PoP zones
+	"The Plane of Knowledge": "POP",
+	# Gates of Discord zones
+	"Abysmal Sea": "GATES",
+	# TSS zones
+	"Crescent Reach": "TSS",
+	"The Mines of Gloomingdeep": "TSS",
+	# Ring of Scale zones
+	"The Overthere [RoS]": "ROS",
+	# Night of Shadows zones
+	"Shar Vahl, Divided (NoS)": "NOS"
 }
 
 var game_dir: String = ""
@@ -34,6 +141,9 @@ const RETRY_DELAY = 5.0
 const REQUEST_DELAY = 1.5
 var current_file_key : String = ""
 var tween: Tween
+
+# Spell data storage for JSON
+var spell_data: Array = []
 
 var color_column1 = Color("#d79921")
 var color_column2 = Color("#ebdbb2")
@@ -79,6 +189,21 @@ var color_column3 = Color("#928374")
 @onready var wizard: AnimatedSprite2D = %Wizard
 
 func _ready() -> void:
+	# Set solid tooltip background globally
+	var tooltip_panel_style = StyleBoxFlat.new()
+	tooltip_panel_style.bg_color = Color(0.12, 0.12, 0.12, 1.0)  # Dark gray, fully opaque
+	tooltip_panel_style.set_corner_radius_all(4)
+	tooltip_panel_style.set_content_margin_all(8)
+	tooltip_panel_style.border_color = Color(0.3, 0.3, 0.3, 1.0)
+	tooltip_panel_style.set_border_width_all(1)
+
+	# Apply to the theme used by item_list
+	var theme = item_list.theme
+	if theme:
+		theme.set_stylebox("panel", "TooltipPanel", tooltip_panel_style)
+		# Also set tooltip label color
+		theme.set_color("font_color", "TooltipLabel", Color(0.92, 0.86, 0.70, 1.0))
+
 	load_game_dir()
 	if game_dir:
 		update_file_list()
@@ -103,27 +228,105 @@ func _ready() -> void:
 	label_pop.modulate.a = 1.0
 	label_pop.mouse_filter = Control.MOUSE_FILTER_IGNORE
 
+func get_expansion_index(exp_code: String) -> int:
+	return EXPANSION_ORDER.find(exp_code.to_upper())
+
+func get_expansion_code(display_name: String) -> String:
+	if EXPANSION_NAMES.has(display_name):
+		return EXPANSION_NAMES[display_name]
+	return "LS"  # Default to latest expansion
+
+func load_spells_from_json(file_path: String) -> void:
+	var file = FileAccess.open(file_path, FileAccess.READ)
+	if file == null:
+		printerr("Failed to open ", file_path)
+		spell_data = []
+		return
+	var json = JSON.new()
+	var error = json.parse(file.get_as_text())
+	file.close()
+	if error != OK:
+		printerr("JSON parse error: ", json.get_error_message())
+		spell_data = []
+		return
+	spell_data = json.data
+
+func display_spells_for_expansion(max_expansion: String) -> void:
+	var max_index = get_expansion_index(max_expansion)
+	if max_index == -1:
+		max_index = EXPANSION_ORDER.size() - 1  # Show all if unknown
+
+	item_list.clear()
+	item_list.max_columns = 3
+	label_2.show()
+	menu_button_exp.show()
+
+	for i in range(spell_data.size()):
+		var spell = spell_data[i]
+		var spell_exp_index = get_expansion_index(spell.expansion)
+		if spell_exp_index <= max_index:
+			var level_str = str(spell.level)
+			if level_str.length() == 1:
+				level_str = "  " + level_str
+			elif level_str.length() == 2:
+				level_str = " " + level_str
+			item_list.add_item(level_str.rpad(3))
+			item_list.add_item(spell.name)
+			item_list.add_item(spell.expansion)
+			# Store spell index in metadata for the spell name column
+			item_list.set_item_metadata(item_list.get_item_count() - 2, i)
+
+	remove_matching_spells()
+	set_column_colors()
+	update_missing_count()
+
+func display_all_spells() -> void:
+	display_spells_for_expansion("LS")
+
+func build_spell_tooltip(spell: Dictionary) -> String:
+	var tooltip = "%s (Level %s)\n%s" % [spell.name, str(spell.level), spell.url]
+
+	if spell.has("merchants") and spell.merchants.size() > 0:
+		# Get current expansion index for filtering
+		var current_exp_code = get_expansion_code(expansion_set) if expansion_set != "" else "LS"
+		var max_exp_index = get_expansion_index(current_exp_code)
+
+		# Filter merchants by their expansion field
+		var available_merchants = []
+		for m in spell.merchants:
+			var merchant_exp = m.e.to_upper() if m.has("e") else "EQ"
+			var merchant_exp_index = get_expansion_index(merchant_exp)
+			if merchant_exp_index <= max_exp_index:
+				available_merchants.append(m)
+
+		if available_merchants.size() > 0:
+			tooltip += "\n\nSold by:"
+			for m in available_merchants:
+				var loc = str(m.l) if m.l != null else "unknown"
+				var price = m.p if m.p != "" else "?"
+				tooltip += "\n  %s - %s (%s) @ %s" % [m.m, m.z, price, loc]
+
+	return tooltip
+
 func _on_item_selected(id: int):
 	var item_text = menu_button_exp.get_popup().get_item_text(id)
 	var display_text = item_text.split("(")[0].strip_edges()
 	label_exp.text = display_text
 	expansion_set = display_text
-	var function_name = display_text.to_lower().replace(" ", "_")
-	if has_method(function_name):
-		call(function_name)
-		save_game_dir()
-	else:
-		pass
+
+	var exp_code = get_expansion_code(display_text)
+	load_spells_from_json(SPELL_FILES[current_spell_class])
+	display_spells_for_expansion(exp_code)
+	save_game_dir()
 
 func check_settings_file():
 	var file = game_dir
-	
+
 	if file == "":
 		print("Settings file not found or inaccessible.")
-		#call_deferred("show_popup")
 		var timer = Timer.new()
 		timer.connect("timeout", show_popup)
-		timer.set_wait_time(0.1)  # 100 ms delay
+		timer.set_wait_time(0.1)
 		timer.set_one_shot(true)
 		add_child(timer)
 		timer.start()
@@ -175,7 +378,7 @@ func populate_spell_list(file_content: String) -> void:
 			elif number.length() == 2:
 				number = " " + number
 			number = number.rpad(3)
-			
+
 			var spell_name = parts[1].strip_edges()
 			item_list_spells.add_item(number)
 			item_list_spells.add_item(spell_name)
@@ -183,37 +386,6 @@ func populate_spell_list(file_content: String) -> void:
 			item_list_spells.add_item(line.strip_edges())
 			item_list_spells.add_item("")
 	set_column_colors_spells()
-
-func load_spells_into_item_list(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	label_2.show()
-	menu_button_exp.show()
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		if parts.size() == 3:
-			var number = parts[0].strip_edges()
-			if number.length() == 1:
-				number = "  " + number
-			elif number.length() == 2:
-				number = " " + number
-			item_list.add_item(number.rpad(3))
-			item_list.add_item(parts[1].strip_edges())
-			item_list.add_item(parts[2].strip_edges())
-		else:
-			printerr("Invalid line format: ", line)
-			item_list.add_item(line)
-			item_list.add_item("")
-			item_list.add_item("")
-	file.close()
-	update_missing_count()
 
 func remove_matching_spells() -> void:
 	var spells_to_remove = []
@@ -240,7 +412,18 @@ func set_column_colors():
 	for i in range(item_count):
 		var color_index = i % 3
 		item_list.set_item_custom_fg_color(i, colors[color_index])
-		item_list.set_item_tooltip_enabled(i, false)
+
+		# Enable tooltips only for spell name column (index % 3 == 1)
+		if color_index == 1:
+			var spell_index = item_list.get_item_metadata(i)
+			if spell_index != null and spell_index < spell_data.size():
+				var tooltip = build_spell_tooltip(spell_data[spell_index])
+				item_list.set_item_tooltip(i, tooltip)
+				item_list.set_item_tooltip_enabled(i, true)
+			else:
+				item_list.set_item_tooltip_enabled(i, false)
+		else:
+			item_list.set_item_tooltip_enabled(i, false)
 
 func set_column_colors_spells():
 	var colors = [color_column1, color_column2, color_column3]
@@ -377,1171 +560,131 @@ func run_stored_selection():
 		print("No expansion set selected")
 		return
 	label_exp.text = expansion_set
-	var function_name = expansion_set.to_lower().replace(" ", "_")
-	if has_method(function_name):
-		call(function_name)
-	else:
-		print("Function not found: ", function_name)
+	var exp_code = get_expansion_code(expansion_set)
+	load_spells_from_json(SPELL_FILES[current_spell_class])
+	display_spells_for_expansion(exp_code)
 
-func everquest():
-	load_spells_into_item_list_EQ(SPELL_FILES[current_spell_class])
+func hide_all_class_sprites():
+	bard.hide()
+	beastlord.hide()
+	berserker.hide()
+	cleric.hide()
+	druid.hide()
+	enchanter.hide()
+	magician.hide()
+	monk.hide()
+	necromancer.hide()
+	paladin.hide()
+	ranger.hide()
+	rogue.hide()
+	shadowknight.hide()
+	shaman.hide()
+	warrior.hide()
+	wizard.hide()
 
-func the_ruins_of_kunark():
-	load_spells_into_item_list_Kunark(SPELL_FILES[current_spell_class])
-
-func the_scars_of_velious():
-	load_spells_into_item_list_Velious(SPELL_FILES[current_spell_class])
-
-func the_shadows_of_luclin():
-	load_spells_into_item_list_Luclin(SPELL_FILES[current_spell_class])
-
-func the_planes_of_power():
-	load_spells_into_item_list_PoP(SPELL_FILES[current_spell_class])
-
-func the_legacy_of_ykesha():
-	load_spells_into_item_list_LoY(SPELL_FILES[current_spell_class])
-
-func lost_dungeons_of_norrath():
-	load_spells_into_item_list_LDoN(SPELL_FILES[current_spell_class])
-
-func gates_of_discord():
-	load_spells_into_item_list_Gates(SPELL_FILES[current_spell_class])
-
-func omens_of_war():
-	load_spells_into_item_list_Omens(SPELL_FILES[current_spell_class])
-
-func dragons_of_norrath():
-	load_spells_into_item_list_DoN(SPELL_FILES[current_spell_class])
-
-func depths_of_darkhollow():
-	load_spells_into_item_list_DoD(SPELL_FILES[current_spell_class])
-
-func prophecy_of_ro():
-	load_spells_into_item_list_PoR(SPELL_FILES[current_spell_class])
-
-func the_serpents_spine():
-	load_spells_into_item_list_TSS(SPELL_FILES[current_spell_class])
-
-func the_buried_sea():
-	load_spells_into_item_list_TBS(SPELL_FILES[current_spell_class])
-
-func secrets_of_faydwer():
-	load_spells_into_item_list_SoF(SPELL_FILES[current_spell_class])
-
-func seeds_of_destruction():
-	load_spells_into_item_list_SoD(SPELL_FILES[current_spell_class])
-
-func underfoot():
-	load_spells_into_item_list_UF(SPELL_FILES[current_spell_class])
-
-func house_of_thule():
-	load_spells_into_item_list_HoT(SPELL_FILES[current_spell_class])
-
-func veil_of_alaris():
-	load_spells_into_item_list_VoA(SPELL_FILES[current_spell_class])
-
-func rain_of_fear():
-	load_spells_into_item_list_RoF(SPELL_FILES[current_spell_class])
-
-func call_of_the_forsaken():
-	load_spells_into_item_list_CotF(SPELL_FILES[current_spell_class])
-
-func the_darkened_sea():
-	load_spells_into_item_list_TDS(SPELL_FILES[current_spell_class])
-
-func the_broken_mirror():
-	load_spells_into_item_list_TBM(SPELL_FILES[current_spell_class])
-
-func empires_of_kunark():
-	load_spells_into_item_list_EoK(SPELL_FILES[current_spell_class])
-
-func ring_of_scale():
-	load_spells_into_item_list_RoS(SPELL_FILES[current_spell_class])
-
-func the_burning_lands():
-	load_spells_into_item_list_TBL(SPELL_FILES[current_spell_class])
-
-func torment_of_velious():
-	load_spells_into_item_list_ToV(SPELL_FILES[current_spell_class])
-
-func claws_of_veeshan():
-	load_spells_into_item_list_CoV(SPELL_FILES[current_spell_class])
-
-func terror_of_luclin():
-	load_spells_into_item_list_ToL(SPELL_FILES[current_spell_class])
-
-func night_of_shadows():
-	load_spells_into_item_list_NoS(SPELL_FILES[current_spell_class])
-
-func laurions_song():
-	load_spells_into_item_list_LS(SPELL_FILES[current_spell_class])
-
-func load_spells_into_item_list_EQ(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		if parts.size() == 3 and parts[2].strip_edges().to_upper().ends_with("EQ"):
-			item_list.add_item(parts[0].strip_edges().rpad(3))
-			item_list.add_item(parts[1].strip_edges())
-			item_list.add_item(parts[2].strip_edges())
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
+func select_class(class_code: String, display_name: String, sprite: AnimatedSprite2D) -> void:
+	current_spell_class = class_code
+	load_spells_from_json(SPELL_FILES[class_code])
+	display_all_spells()
 	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_Kunark(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_Velious(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_Luclin(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_PoP(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_LoY(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_LDoN(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_Gates(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_Omens(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_DoN(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_DoD(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_PoR(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_TSS(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_TBS(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_SoF(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_SoD(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_UF(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_HoT(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_VoA(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_RoF(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("ROF"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_CotF(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_TDS(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_TBM(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_EoK(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_RoS(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK") or expansion.ends_with("ROS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_TBL(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK") or expansion.ends_with("ROS") or expansion.ends_with("TBL"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_ToV(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK") or expansion.ends_with("ROS") or expansion.ends_with("TBL") or expansion.ends_with("TOV"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_CoV(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK") or expansion.ends_with("ROS") or expansion.ends_with("TBL") or expansion.ends_with("TOV") or expansion.ends_with("COV"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_ToL(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK") or expansion.ends_with("ROS") or expansion.ends_with("TBL") or expansion.ends_with("TOV") or expansion.ends_with("COV") or expansion.ends_with("TOL"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_NoS(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK") or expansion.ends_with("ROS") or expansion.ends_with("TBL") or expansion.ends_with("TOV") or expansion.ends_with("COV") or expansion.ends_with("TOL") or expansion.ends_with("NOS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
-
-func load_spells_into_item_list_LS(file_path: String) -> void:
-	var file = FileAccess.open(file_path, FileAccess.READ)
-	if file == null:
-		printerr("Failed to open ", file_path)
-		return
-	item_list.clear()
-	item_list.max_columns = 3
-	while not file.eof_reached():
-		var line = file.get_line().strip_edges()
-		if line.is_empty():
-			continue
-		var parts = line.split("\t")
-		set_column_colors()
-		if parts.size() == 3:
-			var expansion = parts[2].strip_edges().to_upper()
-			if expansion.ends_with("EQ") or expansion.ends_with("KUNARK") or expansion.ends_with("VELIOUS") or expansion.ends_with("LUCLIN") or expansion.ends_with("POP") or expansion.ends_with("LOY") or expansion.ends_with("LDON") or expansion.ends_with("GATES") or expansion.ends_with("OMENS") or expansion.ends_with("DON") or expansion.ends_with("DOD") or expansion.ends_with("POR") or expansion.ends_with("TSS") or expansion.ends_with("TBS") or expansion.ends_with("SOF") or expansion.ends_with("SOD") or expansion.ends_with("UF") or expansion.ends_with("HOT") or expansion.ends_with("VOA") or expansion.ends_with("COTF") or expansion.ends_with("TDS") or expansion.ends_with("TBM") or expansion.ends_with("EOK") or expansion.ends_with("ROS") or expansion.ends_with("TBL") or expansion.ends_with("TOV") or expansion.ends_with("COV") or expansion.ends_with("TOL") or expansion.ends_with("NOS") or expansion.ends_with("LS"):
-				item_list.add_item(parts[0].strip_edges())
-				item_list.add_item(parts[1].strip_edges())
-				item_list.add_item(expansion)
-		else:
-			continue
-	file.close()
-	remove_matching_spells()
-	set_column_colors()
-	update_missing_count()
+	label_class.text = display_name
+	hide_all_class_sprites()
+	sprite.show()
+	item_list.show()
+	label_exp.show()
+	panel.hide()
+	if expansion_save == true:
+		run_stored_selection()
 
 func _on_button_bard_pressed() -> void:
-	current_spell_class = "BRD"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Bard"
-	bard.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
-		
+	select_class("BRD", "Bard", bard)
 
 func _on_button_necromancer_pressed() -> void:
-	current_spell_class = "NEC"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Necromancer"
-	necromancer.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("NEC", "Necromancer", necromancer)
 
 func _on_button_druid_pressed() -> void:
-	current_spell_class = "DRU"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Druid"
-	druid.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("DRU", "Druid", druid)
 
 func _on_button_beastlord_pressed() -> void:
-	current_spell_class = "BST"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Beastlord"
-	beastlord.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("BST", "Beastlord", beastlord)
 
 func _on_button_berserker_pressed() -> void:
-	current_spell_class = "BER"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Berserker"
-	berserker.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("BER", "Berserker", berserker)
 
 func _on_button_cleric_pressed() -> void:
-	current_spell_class = "CLR"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Cleric"
-	cleric.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("CLR", "Cleric", cleric)
 
 func _on_button_enchanter_pressed() -> void:
-	current_spell_class = "ENC"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Enchanter"
-	enchanter.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("ENC", "Enchanter", enchanter)
 
 func _on_button_magician_pressed() -> void:
-	current_spell_class = "MAG"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Magician"
-	magician.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("MAG", "Magician", magician)
 
 func _on_button_monk_pressed() -> void:
-	current_spell_class = "MNK"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Monk"
-	monk.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("MNK", "Monk", monk)
 
 func _on_button_paladin_pressed() -> void:
-	current_spell_class = "PAL"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Paladin"
-	paladin.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("PAL", "Paladin", paladin)
 
 func _on_button_ranger_pressed() -> void:
-	current_spell_class = "RNG"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Ranger"
-	ranger.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("RNG", "Ranger", ranger)
 
 func _on_button_rogue_pressed() -> void:
-	current_spell_class = "ROG"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Rogue"
-	rogue.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("ROG", "Rogue", rogue)
 
 func _on_button_shadowknight_pressed() -> void:
-	current_spell_class = "SHD"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Shadowknight"
-	shadowknight.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("SHD", "Shadowknight", shadowknight)
 
 func _on_button_shaman_pressed() -> void:
-	current_spell_class = "SHM"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Shaman"
-	shaman.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("SHM", "Shaman", shaman)
 
 func _on_button_warrior_pressed() -> void:
-	current_spell_class = "WAR"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Warrior"
-	warrior.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("WAR", "Warrior", warrior)
 
 func _on_button_wizard_pressed() -> void:
-	current_spell_class = "WIZ"
-	load_spells_into_item_list(SPELL_FILES[current_spell_class])
-	remove_matching_spells()
-	set_column_colors()
-	label_class.text = "Wizard"
-	wizard.show()
-	item_list.show()
-	label_exp.show()
-	panel.hide()
-	if expansion_save == true:
-		run_stored_selection()
-		return
+	select_class("WIZ", "Wizard", wizard)
 
 func update_spell_files():
-	var http_request = HTTPRequest.new()
-	add_child(http_request)
-	http_request.request_completed.connect(_on_request_completed)
-	
+	var http_request_node = HTTPRequest.new()
+	add_child(http_request_node)
+	http_request_node.request_completed.connect(_on_request_completed)
+
 	for key in SPELL_FILES:
 		current_file_key = key
 		var local_path = SPELL_FILES[key]
 		var filename = local_path.get_file()
 		var url = "https://raw.githubusercontent.com/stianfan/EQSpellTool/main/" + filename
-		
+
 		print("Requesting: ", url)
 		label_cloud.text = "Requesting: " + filename
-		var error = http_request.request(url)
+		var error = http_request_node.request(url)
 		if error != OK:
 			print("An error occurred in the HTTP request for ", filename)
 			label_cloud.text = "Error in HTTP request for: " + filename
-		
-		await http_request.request_completed
-	
-	http_request.queue_free()
+
+		await http_request_node.request_completed
+
+	http_request_node.queue_free()
 
 func _on_request_completed(result, response_code, headers, body):
 	if result != HTTPRequest.RESULT_SUCCESS:
 		print("Error fetching file: ", result)
 		return
-	
+
 	var remote_content = body.get_string_from_utf8()
 	var local_path = SPELL_FILES[current_file_key]
 	var filename = local_path.get_file()
-	
+
 	print("Processing: ", filename)
 	label_cloud.text = "Processing: " + filename
-	
+
 	# Read local file content
 	var local_content = ""
 	if FileAccess.file_exists(local_path):
 		var file = FileAccess.open(local_path, FileAccess.READ)
 		local_content = file.get_as_text()
 		file.close()
-	
+
 	# Compare and update if different
 	if local_content != remote_content:
 		var file = FileAccess.open(local_path, FileAccess.WRITE)
@@ -1559,10 +702,23 @@ func _on_button_cloud_pressed() -> void:
 	update_spell_files()
 
 func _on_item_list_item_activated(index: int) -> void:
-	var text_to_copy = item_list.get_item_text(index)
-	DisplayServer.clipboard_set(text_to_copy)
-	print("Copied to clipboard: ", text_to_copy)
-	show_at_mouse("Copied to clipboard")
+	# Only respond to spell name column (index % 3 == 1)
+	if index % 3 != 1:
+		return
+
+	# Get the spell URL from metadata
+	var spell_index = item_list.get_item_metadata(index)
+	if spell_index != null and spell_index < spell_data.size():
+		var url = spell_data[spell_index].url
+		if url and url != "":
+			DisplayServer.clipboard_set(url)
+			print("Copied URL to clipboard: ", url)
+			show_at_mouse("URL copied!")
+		else:
+			show_at_mouse("No URL available")
+	else:
+		show_at_mouse("No URL available")
+
 func _on_item_list_spells_item_activated(index: int) -> void:
 	var text_to_copy = item_list_spells.get_item_text(index)
 	DisplayServer.clipboard_set(text_to_copy)

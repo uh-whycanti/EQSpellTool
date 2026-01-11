@@ -1,0 +1,10103 @@
+[
+  {
+    "level": 1,
+    "name": "Salve",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 2,
+    "name": "Glimpse",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 3,
+    "name": "Flame Lick",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 4,
+    "name": "Lull Animal",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 5,
+    "name": "Tangling Weeds",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 6,
+    "name": "Snare",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 7,
+    "name": "Skin like Wood",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 8,
+    "name": "Minor Healing",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 9,
+    "name": "Endure Fire",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 10,
+    "name": "Dance of the Fireflies",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 11,
+    "name": "Hawk Eye",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 12,
+    "name": "Feet like Cat",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 13,
+    "name": "Cure Poison",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 13,
+    "name": "Thistlecoat",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 14,
+    "name": "Burst of Fire",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 14,
+    "name": "Camouflage",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 15,
+    "name": "Grasping Roots",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 15,
+    "name": "Invoke Lightning",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 16,
+    "name": "Panic Animal",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 16,
+    "name": "Ward Summoned",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 17,
+    "name": "Bind Sight",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 17,
+    "name": "Firefist",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 18,
+    "name": "Endure Cold",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 19,
+    "name": "Ignite",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 20,
+    "name": "Enduring Breath",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 20,
+    "name": "Light Healing",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 21,
+    "name": "Skin like Rock",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 22,
+    "name": "Cure Disease",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 22,
+    "name": "Harmony",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 24,
+    "name": "Shield of Thistles",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 25,
+    "name": "Stinging Swarm",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 26,
+    "name": "Strength of Earth",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 27,
+    "name": "Eyes of the Cat",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 28,
+    "name": "Spirit of Wolf",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 29,
+    "name": "Flaming Arrow",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 29,
+    "name": "Riftwind's Protection",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 30,
+    "name": "Barbcoat",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 30,
+    "name": "Cancel Magic",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 31,
+    "name": "Calm Animal",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 32,
+    "name": "Healing",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 32,
+    "name": "See Invisible",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 33,
+    "name": "Dismiss Summoned",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 34,
+    "name": "Bramblecoat",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 35,
+    "name": "Levitate",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 36,
+    "name": "Call of Sky",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 37,
+    "name": "Careless Lightning",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 37,
+    "name": "Nature's Precision",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 38,
+    "name": "Skin like Steel",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 39,
+    "name": "Burning Arrow",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 39,
+    "name": "Harmony of Nature",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 40,
+    "name": "Swarm of Pain",
+    "expansion": "LoY",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 41,
+    "name": "Spirit of the Shrew",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 42,
+    "name": "Spikecoat",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 43,
+    "name": "Shield of Brambles",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 44,
+    "name": "Greater Healing",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 44,
+    "name": "Immolate",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 45,
+    "name": "Ensnaring Roots",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 46,
+    "name": "Resist Fire",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 47,
+    "name": "Superior Camouflage",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 48,
+    "name": "Force of Nature",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 48,
+    "name": "Wolf Form",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 49,
+    "name": "Call of Flame",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 49,
+    "name": "Pack Shrew",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 50,
+    "name": "Call of Earth",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 50,
+    "name": "Jolt",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Ensnare",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Resistant Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Strength of Nature",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Tangle",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Falcon Eye",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Firestrike",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Icewind",
+    "expansion": "LoY",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 53,
+    "name": "Storm Strength",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Drones of Doom",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Fearless Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Jolting Blades",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Skin like Diamond",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Call of Fire",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Chloroplast",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Cinder Jolt",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Fire Swarm",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Resist Cold",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Trueshot Discipline",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Chill Sight",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Greater Wolf Form",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Mark of the Predator",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Call of Ice",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Eagle Eye",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Nullify Magic",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Shield of Spikes",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Dustdevil",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Skin like Nature",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Call of the Predator",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Enveloping Roots",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Thorncoat",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Warder's Protection",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Weapon Shield Discipline",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Annul Magic",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Circle of Winter",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Counteract Disease",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Counteract Poison",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Earthen Embrace",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Entangle",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Exile Summoned",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Call of the Rathe",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Chloroblast",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Drifting Death",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Shield of Thorns",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Strength of Tunare",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Bladecoat",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Circle of Summer",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Earthen Roots",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Frozen Wind",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Brushfire",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Feral Form",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Nature's Rebuke",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Regrowth",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Spirit of the Predator",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Ancient: Burning Chaos",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Cry of Thunder",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Mask of the Stalker",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Natureskin",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Protection of the Wild",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Spirit of Eagle",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Sylvan Burn",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Sylvan Call",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Sylvan Light",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Displace Summoned",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Nature Veil",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Shield of Briar",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Guard of the Earth",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Locust Swarm",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Strength of the Hunter",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Sylvan Water",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Briarcoat",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Frost Wind",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Hail of Arrows",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Hunter's Vigor",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Tranquility of the Glade",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Earthen Shackles",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Hearth Embers",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Howl of the Predator",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Nature's Balance",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Nature's Denial",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Warder's Wrath",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Ancient: North Wind",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Call of Lightning",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Elddar's Grasp",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Onyx Skin",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Scorched Earth",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Ward of the Hunter",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Drifting Fog",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Drifting Fog Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Nature's Entropy",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Nature's Entropy Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Nature's Entropy Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Shield of Needles",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Shield of Needles Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Sunderock Springwater",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Sunderock Springwater Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Sunderock Springwater Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Wasp Swarm",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Wasp Swarm Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Wasp Swarm Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Icefall Chill",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Icefall Chill Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Icefall Chill Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Jolting Kicks",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Jolting Kicks Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Strength of the Forest Stalker",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Strength of the Forest Stalker Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Potamide Salve",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Potamide Salve Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Snarl of the Predator",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Snarl of the Predator Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Vinelash Cascade",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Vinelash Cascade Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Vinelash Cascade Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Volcanic Ash",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Volcanic Ash Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Volcanic Ash Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Eyes of the Owl",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Eyes of the Owl Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Eyes of the Owl Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Obsidian Skin",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Obsidian Skin Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Obsidian Skin Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Burn",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Burn II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Burn III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Splash",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Splash II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Summer's Dew Splash III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Consumed by the Hunt",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Consumed by the Hunt Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Heartshot",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Heartshot Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Protection of the Minohten",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Protection of the Minohten Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Protection of the Minohten Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Thundering Blades",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Thundering Blades Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Thundering Blades Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Dragonscale Aquifer",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Dragonscale Aquifer Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Dragonscale Aquifer Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Drifting Haze",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Drifting Haze Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Drifting Haze Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Eradicate Disease",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Eradicate Poison",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Hornet Swarm",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Hornet Swarm Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Hornet Swarm Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Shield of Spurs",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Shield of Spurs Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Shield of Spurs Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Skylight Sagacity",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Skylight Sagacity Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Skylight Sagacity Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Cloak of Scales",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Cloak of Scales Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Cloak of Scales Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jolting Snapkicks",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jolting Snapkicks Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jolting Snapkicks Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jolting Strikes",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jolting Strikes Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jolting Strikes Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Rimefall Bite",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Rimefall Bite Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Rimefall Bite Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Strength of the Gladewalker",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Strength of the Gladewalker Rk. II",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Strength of the Gladewalker Rk. III",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Deadfall",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Deadfall Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Deadfall Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Galvanic Ash",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Galvanic Ash Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Galvanic Ash Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Gnarl of the Predator",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Gnarl of the Predator Rk. II",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Gnarl of the Predator Rk. III",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Potamide Balm",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Potamide Balm Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Potamide Balm Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Arc of Arrows",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Arc of Arrows Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Arc of Arrows Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Eyes of the Peregrine",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Eyes of the Peregrine Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Eyes of the Peregrine Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Ravenscale",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Ravenscale Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Ravenscale Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Burn",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Burn II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Burn III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Splash",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Splash II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Summer's Viridity Splash III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Aimshot Discipline",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Aimshot Discipline Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Aimshot Discipline Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Deafening Blades",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Deafening Blades Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Deafening Blades Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Heartsting",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Heartsting Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Heartsting Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Protection of the Kirkoten",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Protection of the Kirkoten Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Protection of the Kirkoten Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Beetle Swarm",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Beetle Swarm Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Beetle Swarm Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Carve Whistle",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Carve Whistle Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Carve Whistle Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Drifting Mist",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Drifting Mist Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Drifting Mist Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Oceangreen Aquifer",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Oceangreen Aquifer Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Oceangreen Aquifer Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Shield of Dryspines",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Shield of Dryspines Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Shield of Dryspines Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Cloak of Feathers",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Cloak of Feathers Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Cloak of Feathers Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jolting Frontkicks",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jolting Frontkicks Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jolting Frontkicks Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jolting Swings",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jolting Swings Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jolting Swings Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Strength of the Tracker",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Strength of the Tracker Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Strength of the Tracker Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Windwhip Bite",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Windwhip Bite Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Windwhip Bite Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Angry Bee Swarm",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Angry Bee Swarm Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Angry Bee Swarm Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Burynai Balm",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Burynai Balm Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Burynai Balm Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Cataclysm Ash",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Cataclysm Ash Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Cataclysm Ash Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Cloud of Protective Bees",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Cloud of Protective Bees Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Cloud of Protective Bees Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Heartpierce",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Heartpierce Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Heartpierce Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Spinecoat",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Spinecoat Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Spinecoat Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Swarm of Bees",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Swarm of Bees Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Swarm of Bees Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Yowl of the Predator",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Yowl of the Predator Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Yowl of the Predator Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Barrage of Arrows",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Barrage of Arrows Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Barrage of Arrows Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Devastating Blades",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Devastating Blades Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Devastating Blades Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Eyes of the Nocturnal",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Eyes of the Nocturnal Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Eyes of the Nocturnal Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Mottlescale",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Mottlescale Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Mottlescale Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Burn",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Burn II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Burn III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Splash",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Splash II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Summer's Mist Splash III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Crackling Blades",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Crackling Blades Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Crackling Blades Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Enraging Shot",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Enraging Shot Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Enraging Shot Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Flusterbolt",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Focused Storm of Arrows",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Focused Storm of Arrows Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Focused Storm of Arrows Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Heartshear",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Heartshear Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Heartshear Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Protection of the Paw",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Protection of the Paw Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Protection of the Paw Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Spirit of Falcons",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Storm of Arrows",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Storm of Arrows Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Storm of Arrows Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Sureshot Discipline",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Sureshot Discipline Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Sureshot Discipline Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Called Shots",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Called Shots Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Called Shots Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Drifting Cloud",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Drifting Cloud Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Drifting Cloud Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Purefont",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Purefont Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Purefont Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Scarab Swarm",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Scarab Swarm Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Scarab Swarm Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Shield of Nettlespikes",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Shield of Nettlespikes Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Shield of Nettlespikes Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Biting Wind",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Biting Wind Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Biting Wind Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Cloak of Quills",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Cloak of Quills Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Cloak of Quills Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jolting Edges",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jolting Edges Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jolting Edges Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jolting Hook Kicks",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jolting Hook Kicks Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jolting Hook Kicks Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Strength of the Thicket Stalker",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Strength of the Thicket Stalker Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Strength of the Thicket Stalker Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Burning Ash",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Burning Ash Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Burning Ash Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Cloud of Guardian Hornets",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Cloud of Guardian Hornets II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Cloud of Guardian Hornets III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Heartrend",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Heartrend Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Heartrend Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Hornet Swarm",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Hornet Swarm II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Hornet Swarm III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lingering Cloud",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lingering Cloud Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lingering Cloud Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lucid Balm",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lucid Balm Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lucid Balm Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Quillcoat",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Quillcoat Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Quillcoat Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Roar of the Predator",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Roar of the Predator Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Roar of the Predator Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Stalker's Vigor",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Stalker's Vigor Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Stalker's Vigor Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Swarm of Hornets",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Swarm of Hornets Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Swarm of Hornets Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Desperate Deluge",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Desperate Deluge Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Desperate Deluge Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Devastating Edges",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Devastating Edges Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Devastating Edges Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Eyes of the Wolf",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Eyes of the Wolf Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Eyes of the Wolf Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Fusillade of Arrows",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Fusillade of Arrows Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Fusillade of Arrows Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Mottlecoat",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Mottlecoat Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Mottlecoat Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Burn",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Burn II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Burn III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Splash",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Splash II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Summer's Storm Splash III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Blusterbolt",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Blusterbolt Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Blusterbolt Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Bullseye Discipline",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Bullseye Discipline Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Bullseye Discipline Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Crackling Edges",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Crackling Edges Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Crackling Edges Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Focused Tempest of Arrows",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Focused Tempest of Arrows Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Focused Tempest of Arrows Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Heartslice",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Heartslice Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Heartslice Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Infuriating Shot",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Infuriating Shot Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Infuriating Shot Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Invigorated by the Hunt",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Invigorated by the Hunt Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Invigorated by the Hunt Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Invigorated Effect",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Invigorated Effect II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Invigorated Effect III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Protection of the Vale",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Protection of the Vale Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Protection of the Vale Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Tempest of Arrows",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Tempest of Arrows Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Tempest of Arrows Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Announced Shots",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Announced Shots Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Announced Shots Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Drifting Veil",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Drifting Veil Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Drifting Veil Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Grasping Nettlecoat",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Grasping Nettlecoat Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Grasping Nettlecoat Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Purespring",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Purespring Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Purespring Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Shield of Bramblespikes",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Shield of Bramblespikes Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Shield of Bramblespikes Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Veil of Alaris",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Veil of Alaris Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Veil of Alaris Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Vespid Swarm",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Vespid Swarm Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Vespid Swarm Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Cloak of Burrs",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Cloak of Burrs Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Cloak of Burrs Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Enraging Crescent Kicks",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Enraging Crescent Kicks Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Enraging Crescent Kicks Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jolting Crescent Kicks",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jolting Crescent Kicks Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jolting Crescent Kicks Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jolting Impact",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jolting Impact Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jolting Impact Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Rime-Laced Wind",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Rime-Laced Wind Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Rime-Laced Wind Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Strength of the Gladetender",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Strength of the Gladetender Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Strength of the Gladetender Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Beastwood Ash",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Beastwood Ash Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Beastwood Ash Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Burrcoat",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Burrcoat Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Burrcoat Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Cloud of Guardian Sand Wasps",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Cloud of Guardian Sand Wasps II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Cloud of Guardian Sand Wasps III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Cry of the Predator",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Cry of the Predator Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Cry of the Predator Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Gladewalker's Vigor",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Gladewalker's Vigor Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Gladewalker's Vigor Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Heartrip",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Heartrip Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Heartrip Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Lingering Veil",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Lingering Veil Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Lingering Veil Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sand Wasp Swarm",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sand Wasp Swarm II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sand Wasp Swarm III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Swarm of Sand Wasps",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Swarm of Sand Wasps Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Swarm of Sand Wasps Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Wild Balm",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Wild Balm Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Wild Balm Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Desperate Downpour",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Desperate Downpour Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Desperate Downpour Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Devastating Slashes",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Devastating Slashes Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Devastating Slashes Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Eyes of the Raptor",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Eyes of the Raptor Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Eyes of the Raptor Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Shadowcoat",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Shadowcoat Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Shadowcoat Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Shared Cloak of Burrs",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Shared Cloak of Burrs Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Shared Cloak of Burrs Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Burn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Burn II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Burn III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Splash",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Splash II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Summer's Squall Splash III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Swarm of Arrows",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Swarm of Arrows Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Swarm of Arrows Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Arrow Swarm",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Arrow Swarm Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Arrow Swarm Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Deafening Edges",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Deafening Edges Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Deafening Edges Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Focused Arrow Swarm",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Focused Arrow Swarm Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Focused Arrow Swarm Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Galvanized by the Hunt",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Galvanized by the Hunt Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Galvanized by the Hunt Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Galvanized Effect",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Galvanized Effect II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Galvanized Effect III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Heartslash",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Heartslash Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Heartslash Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Protection of the Copse",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Protection of the Copse Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Protection of the Copse Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Provoking Shot",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Provoking Shot Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Provoking Shot Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Arbor Veil",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Arbor Veil Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Arbor Veil Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Cloudburst",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Cloudburst Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Cloudburst Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Dreadbeetle Swarm",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Dreadbeetle Swarm Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Dreadbeetle Swarm Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Drifting Shadow",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Drifting Shadow Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Drifting Shadow Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Forecasted Shots",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Forecasted Shots Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Forecasted Shots Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Shield of Nettlespines",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Shield of Nettlespines Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Shield of Nettlespines Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Storm of Blades",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Storm of Blades Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Storm of Blades Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Bitter Wind",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Bitter Wind Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Bitter Wind Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Cloak of Spurs",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Cloak of Spurs Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Cloak of Spurs Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Enraging Heel Kicks",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Enraging Heel Kicks Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Enraging Heel Kicks Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jolting Heel Kicks",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jolting Heel Kicks Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jolting Heel Kicks Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jolting Shock",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jolting Shock Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jolting Shock Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Ro's Burning Cloak",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Ro's Burning Cloak Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Ro's Burning Cloak Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Strength of the Bosquestalker",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Strength of the Bosquestalker Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Strength of the Bosquestalker Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Windblast Boon",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Windblast Boon Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Windblast Boon Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ashcloud Boon",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ashcloud Boon Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ashcloud Boon Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bosquestalker's Vigor",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bosquestalker's Vigor Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bosquestalker's Vigor Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Cloud of Guardian Vespines",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Cloud of Guardian Vespines II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Cloud of Guardian Vespines III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Focused Storm of Blades",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Focused Storm of Blades Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Focused Storm of Blades Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Heartspike",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Heartspike Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Heartspike Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Herbal Balm",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Herbal Balm Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Herbal Balm Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Lingering Shadow",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Lingering Shadow Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Lingering Shadow Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Shout of the Predator",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Shout of the Predator Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Shout of the Predator Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Spurcoat",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Spurcoat Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Spurcoat Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Swarm of Vespines",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Swarm of Vespines Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Swarm of Vespines Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vespine Swarm",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vespine Swarm II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vespine Swarm III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vileoak Ash",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vileoak Ash Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vileoak Ash Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vinelash Assault",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vinelash Assault Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Vinelash Assault Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Desperate Drenching",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Desperate Drenching Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Desperate Drenching Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Devastating Impact",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Devastating Impact Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Devastating Impact Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Eyes of the Howler",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Eyes of the Howler Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Eyes of the Howler Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Shadowscale",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Shadowscale Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Shadowscale Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Shared Cloak of Spurs",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Shared Cloak of Spurs Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Shared Cloak of Spurs Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Squall of Arrows",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Squall of Arrows Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Squall of Arrows Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Burn",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Burn II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Burn III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Splash",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Splash II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Summer's Gale Splash III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Angering Shot",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Angering Shot Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Angering Shot Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Bosquestalker's Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Bosquestalker's Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Bosquestalker's Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Bosquetender's Unity",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Bosquetender's Unity Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Bosquetender's Unity Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Deafening Weapons",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Deafening Weapons Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Deafening Weapons Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Focused Rain of Arrows",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Focused Rain of Arrows Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Focused Rain of Arrows Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Heartcarve",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Heartcarve Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Heartcarve Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Inspired by the Hunt",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Inspired by the Hunt Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Inspired by the Hunt Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Inspired Effect",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Inspired Effect II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Inspired Effect III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Protection of the Bosque",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Protection of the Bosque Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Protection of the Bosque Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Pureshot Discipline",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Pureshot Discipline Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Pureshot Discipline Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Rain of Arrows",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Rain of Arrows Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Rain of Arrows Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Bladespurs",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Bladespurs Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Bladespurs Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Shout of the Bosquestalker",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Shout of the Bosquestalker Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Shout of the Bosquestalker Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Anticipated Shots",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Anticipated Shots Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Anticipated Shots Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Blisterbeetle Swarm",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Blisterbeetle Swarm Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Blisterbeetle Swarm Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Cloudfont",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Cloudfont Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Cloudfont Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Dichotomic Fusillade",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Drifting Darkness",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Drifting Darkness Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Drifting Darkness Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Shield of Nettlespears",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Shield of NettlespearsRk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Shield of NettlespearsRk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Shimmering Veil",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Shimmering Veil Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Shimmering Veil Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Squall of Blades",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Squall of Blades Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Squall of Blades Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Bellow of the Predator",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Bellow of the Predator Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Bellow of the Predator Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Cloak of Nettlespears",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Cloak of Nettlespears Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Cloak of Nettlespears Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Enraging Cut Kicks",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Enraging Cut Kicks Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Enraging Cut Kicks Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Frozen Wind",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Frozen Wind Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Frozen Wind Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jolting Cut Kicks",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jolting Cut Kicks Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jolting Cut Kicks Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jolting Swords",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jolting Swords Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jolting Swords Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Lingering Darkness",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Lingering Darkness Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Lingering Darkness Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Strength of the Copsestalker",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Strength of the Copsestalker Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Strength of the Copsestalker Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Windgale Boon",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Windgale Boon Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Windgale Boon Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Bosquestalker's Alliance",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Bosquestalker's Alliance Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Bosquestalker's Alliance Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Cloud of Guardian Glistenwings",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Cloud of Guardian Glistenwings II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Cloud of Guardian Glistenwings III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Copsestalker's Vigor",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Copsestalker's Vigor Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Copsestalker's Vigor Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Focused Squall of Blades",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Focused Squall of Blades Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Focused Squall of Blades Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Glistenwing Swarm",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Glistenwing Swarm II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Glistenwing Swarm III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Kromtus Balm",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Kromtus Balm Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Kromtus Balm Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Nettlespear Coat",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Nettlespear Coat Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Nettlespear Coat Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Silent Shot",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Silent Shot Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Silent Shot Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Swarm of Glistenwings",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Swarm of Glistenwings Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Swarm of Glistenwings Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Wildfire Ash",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Wildfire Ash Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Wildfire Ash Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Wildfire Boon",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Wildfire Boon Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Wildfire Boon Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Cyclone of Arrows",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Cyclone of Arrows Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Cyclone of Arrows Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Desperate Dousing",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Desperate Dousing Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Desperate Dousing Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Devastating Swords",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Devastating Swords Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Devastating Swords Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Eyes of the Harrier",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Eyes of the Harrier Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Eyes of the Harrier Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Ravencoat",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Ravencoat Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Ravencoat Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Shout of the Copsestalker",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Shout of the Copsestalker Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Shout of the Copsestalker Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Burn",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Burn II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Burn III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Splash",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Splash II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Summer's Cyclone Splash III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Arrowrain",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Arrowrain Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Arrowrain Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Discipline",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Discipline Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Discipline Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Enrichment",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Enrichment Rk. II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Enrichment Rk. III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Unity",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Unity Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Copsestalker's Unity Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Energized by the Hunt",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Energized by the Hunt Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Energized by the Hunt Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Energized Effect",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Energized Effect II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Energized Effect III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Focused Arrowrain",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Focused Arrowrain Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Focused Arrowrain Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Heartsplit",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Heartsplit Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Heartsplit Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Protection of the Forest",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Protection of the Forest Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Protection of the Forest Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Reflexive Nettlespears",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Reflexive Nettlespears Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Reflexive Nettlespears Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Roaring Weapons",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Roaring Weapons Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Roaring Weapons Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Bonecrawler Swarm",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Bonecrawler Swarm Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Bonecrawler Swarm Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Dissident Fusillade",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Drifting Smoke",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Drifting Smoke Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Drifting Smoke Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Foreseen Shots",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Foreseen Shots Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Foreseen Shots Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Gale of Blades",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Gale of Blades Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Gale of Blades Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Shield of Needlebarbs",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Shield of Needlebarbs Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Shield of Needlebarbs Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Vaporous Veil",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Vaporous Veil Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Vaporous Veil Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Wellspring",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Wellspring Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Wellspring Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cloak of Needlebarbs",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cloak of Needlebarbs Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cloak of Needlebarbs Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Enraging Wheel Kicks",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Enraging Wheel Kicks Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Enraging Wheel Kicks Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Frigid Wind",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Frigid Wind Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Frigid Wind Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jolting Steel",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jolting Steel Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jolting Steel Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jolting Wheel Kicks",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jolting Wheel Kicks Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jolting Wheel Kicks Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Lavastorm Cloak",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Lavastorm Cloak Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Lavastorm Cloak Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Lingering Smoke",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Lingering Smoke Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Lingering Smoke Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Strength of the Wildstalker",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Strength of the Wildstalker Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Strength of the Wildstalker Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Wail of the Predator",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Wail of the Predator Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Wail of the Predator Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Windshear Boon",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Windshear Boon Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Windshear Boon Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Cloud of Guardian Polybiads",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Cloud of Guardian Polybiads II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Cloud of Guardian Polybiads III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Fereth Balm",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Fereth Balm Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Fereth Balm Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Needlebarb Coat",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Needlebarb Coat Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Needlebarb Coat Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Polybiad Swarm",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Polybiad Swarm II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Polybiad Swarm III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skyfire Ash",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skyfire Ash Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skyfire Ash Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skyfire Boon",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skyfire Boon Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skyfire Boon Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Swarm of Polybiads",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Swarm of Polybiads Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Swarm of Polybiads Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Wildstalker's Covenant",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Wildstalker's Covenant Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Wildstalker's Covenant Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Wildstalker's Vigor",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Wildstalker's Vigor Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Wildstalker's Vigor Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Blackscale",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Blackscale Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Blackscale Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Desperate Dewcloud",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Desperate Dewcloud Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Desperate Dewcloud Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Devastating Steel",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Devastating Steel Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Devastating Steel Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Eyes of the Sabertooth",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Eyes of the Sabertooth Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Eyes of the Sabertooth Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Focused Gale of Blades",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Focused Gale of Blades Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Focused Gale of Blades Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Gale of Arrows",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Gale of Arrows Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Gale of Arrows Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shared Cloak of Needlebarbs",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shared Cloak of Needlebarbs Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shared Cloak of Needlebarbs Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shout of the Wildstalker",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shout of the Wildstalker Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shout of the Wildstalker Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Burn",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Burn II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Burn III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Splash",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Splash II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Summer's Tempest Splash III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Arrowgale",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Arrowgale Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Arrowgale Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Focused Arrowgale",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Focused Arrowgale Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Focused Arrowgale Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Heartcleave",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Heartcleave Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Heartcleave Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Protection of the Woodlands",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Protection of the Woodlands Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Protection of the Woodlands Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Roaring Blades",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Roaring Blades Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Roaring Blades Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Spurred by the Hunt",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Spurred by the Hunt Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Spurred by the Hunt Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Spurred Effect",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Spurred Effect II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Spurred Effect III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Discipline",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Discipline Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Discipline Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Enrichment",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Enrichment Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Enrichment Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Unity",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Unity Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wildstalker's Unity Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Blizzard of Blades",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Blizzard of Blades Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Blizzard of Blades Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Composite Fusillade",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Drifting Snowshower",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Drifting Snowshower Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Drifting Snowshower Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Frostveil",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Frostveil Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Frostveil Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Ice Burrower Swarm",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Ice Burrower Swarm Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Ice Burrower Swarm Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Marked Shots",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Marked Shots Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Marked Shots Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Meltwater Spring",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Meltwater Spring Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Meltwater Spring Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Reflexive Rimespurs",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Reflexive Rimespurs Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Reflexive Rimespurs Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Shield of Rimespurs",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Stealthy Shot",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Stealthy Shot Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Stealthy Shot Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Arrowstorm",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Arrowstorm Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Arrowstorm Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Cloak of Rimespurs",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Enraging Axe Kicks",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Enraging Axe Kicks Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Enraging Axe Kicks Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Frostroar of the Predator",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jolting Axe Kicks",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jolting Axe Kicks Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jolting Axe Kicks Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jolting Velium",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jolting Velium Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jolting Velium Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Lingering Snowshower",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Lingering Snowshower Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Lingering Snowshower Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Mistral Boon",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Mistral Boon Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Mistral Boon Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Outrider's Ever-Burning Cloak",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Outrider's Ever-Burning Cloak Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Outrider's Ever-Burning Cloak Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Restless Wind",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Restless Wind Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Restless Wind Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Strength of the Arbor Stalker",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Arbor Stalker's Coalition",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Arbor Stalker's Coalition Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Arbor Stalker's Coalition Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Arbor Stalker's Vigor",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cloud of Guardian Hyperboreads",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cloud of Guardian Hyperboreads II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cloud of Guardian Hyperboreads III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Hyperboread Swarm",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Hyperboread Swarm II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Hyperboread Swarm III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Pyroclastic Ash",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Pyroclastic Ash Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Pyroclastic Ash Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Pyroclastic Boon",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Pyroclastic Boon Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Pyroclastic Boon Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Rimespur Coat",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Rimespur Coat Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Rimespur Coat Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Swarm of Hyperboreads",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Swarm of Hyperboreads Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Swarm of Hyperboreads Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Wakening Balm",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Wakening Balm Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Wakening Balm Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Blizzard of Arrows",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Blizzard of Arrows Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Blizzard of Arrows Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Desperate Meltwater",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Desperate Meltwater Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Desperate Meltwater Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Devastating Velium",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Devastating Velium Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Devastating Velium Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Eyes of the Visionary",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Eyes of the Visionary Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Eyes of the Visionary Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Focused Blizzard of Blades",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Focused Blizzard of Blades Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Focused Blizzard of Blades Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Obsidian Coat",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Shared Cloak of Rimespurs",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Shout of the Arbor Stalker",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Burn",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Burn II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Burn III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Splash",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Splash II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Summer's Sleet Splash III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Arbor Stalker's Discipline",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Arbor Stalker's Discipline Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Arbor Stalker's Discipline Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Arbor Stalker's Enrichment",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Focused Blizzard of Arrows",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Focused Blizzard of Arrows Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Focused Blizzard of Arrows Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Heartsunder",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Heartsunder Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Heartsunder Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Howling Blades",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Howling Blades Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Howling Blades Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Protection of the Wakening Land",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Provoked by the Hunt",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Provoked by the Hunt Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Provoked by the Hunt Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Provoked Effect",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Provoked Effect II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Provoked Effect III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Bloodbeetle Swarm",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Bloodbeetle Swarm Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Bloodbeetle Swarm Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Claimed Shots",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Claimed Shots Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Claimed Shots Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Darkflow Spring",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Darkflow Spring Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Darkflow Spring Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Drifting Dreamshade",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Drifting Dreamshade Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Drifting Dreamshade Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Duskveil",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Duskveil Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Duskveil Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Ecliptic Fusillade",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Shield of Shadethorns",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Tempest of Blades",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Tempest of Blades Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Tempest of Blades Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Arrowswarm",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Arrowswarm Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Arrowswarm Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Bay of the Predator",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Cloak of Bloodbarbs",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Coagulated Wind",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Coagulated Wind Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Coagulated Wind Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Enraging Roundhouse Kicks",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Enraging Roundhouse Kicks Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Enraging Roundhouse Kicks Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jolting Luclinite",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jolting Luclinite Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jolting Luclinite Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jolting Roundhouse Kicks",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jolting Roundhouse Kicks Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jolting Roundhouse Kicks Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Lingering Quietus",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Lingering Quietus Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Lingering Quietus Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Luclin's Darkfire Cloak",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Luclin's Darkfire Cloak Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Luclin's Darkfire Cloak Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Nocturnal Boon",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Nocturnal Boon Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Nocturnal Boon Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Strength of the Dusksage Stalker",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Bloodfly Swarm",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Bloodfly Swarm II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Bloodfly Swarm III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Cloud of Guardian Bloodflies",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Cloud of Guardian Bloodflies II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Cloud of Guardian Bloodflies III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Dusksage Stalker's Conjunction",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Dusksage Stalker's Conjunction Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Dusksage Stalker's Conjunction Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Dusksage Stalker's Vigor",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunar Balm",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunar Balm Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunar Balm Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunarflare Ash",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunarflare Ash Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunarflare Ash Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunarflare Boon",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunarflare Boon Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lunarflare Boon Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Moonthorn Coat",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Moonthorn Coat Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Moonthorn Coat Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Swarm of Bloodflies",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Swarm of Bloodflies Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Swarm of Bloodflies Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Desperate Geyser",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Desperate Geyser Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Desperate Geyser Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Devastating Barrage",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Devastating Barrage Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Devastating Barrage Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Dusksage Coat",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Eyes of the Senshali",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Eyes of the Senshali Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Eyes of the Senshali Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Focused Tempest of Blades",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Focused Tempest of Blades Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Focused Tempest of Blades Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Shout of the Dusksage Stalker",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Burn",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Burn II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Burn III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Splash",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Splash II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Summer's Torrent Splash III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Whirlwind of Arrows",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Whirlwind of Arrows Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Whirlwind of Arrows Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dusksage Stalker's Discipline",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dusksage Stalker's Discipline Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dusksage Stalker's Discipline Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Focused Whirlwind of Arrows",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Focused Whirlwind of Arrows Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Focused Whirlwind of Arrows Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Heartruin",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Heartruin Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Heartruin Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Protection of the Valley",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Steeled by the Hunt",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Steeled by the Hunt Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Steeled by the Hunt Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Steeled Effect",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Steeled Effect II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Steeled Effect III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Vociferous Blades",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Vociferous Blades Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Vociferous Blades Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Drifting Obscurity",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Drifting Obscurity Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Drifting Obscurity Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Elizerain Spring",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Elizerain Spring Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Elizerain Spring Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Hotaria Swarm",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Hotaria Swarm Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Hotaria Swarm Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Inevitable Shots",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Inevitable Shots Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Inevitable Shots Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Maelstrom of Blades",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Maelstrom of Blades Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Maelstrom of Blades Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Shield of Needlespikes",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Cloak of Needlespikes",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Enraging Drop Kicks",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Enraging Drop Kicks Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Enraging Drop Kicks Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Frostsquall Boon",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Frostsquall Boon Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Frostsquall Boon Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Gelid Wind",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Gelid Wind Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Gelid Wind Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jolting Drop Kicks",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jolting Drop Kicks Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jolting Drop Kicks Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jolting Emberquartz",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jolting Emberquartz Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jolting Emberquartz Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Lingering Obscurity",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Lingering Obscurity Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Lingering Obscurity Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shriek of the Predator",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Strength of the Fernstalker",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Cloud of Guardian Fernflies",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Cloud of Guardian Fernflies II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Cloud of Guardian Fernflies III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Fernflash Boon",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Fernflash Boon Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Fernflash Boon Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Fernfly Swarm",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Fernfly Swarm II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Fernfly Swarm III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Fernstalker's Vigor",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Laurion Ash",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Laurion Ash Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Laurion Ash Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Needlespike Coat",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Needlespike Coat Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Needlespike Coat Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Shalowain's Crucible Cloak",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Shalowain's Crucible Cloak Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Shalowain's Crucible Cloak Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Swarm of Fernflies",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Swarm of Fernflies Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Swarm of Fernflies Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Therapeutic Balm",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Therapeutic Balm Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Therapeutic Balm Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Desperate Quenching",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Desperate Quenching Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Desperate Quenching Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Devastating Spate",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Devastating Spate Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Devastating Spate Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Eyes of the Phoenix",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Eyes of the Phoenix Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Eyes of the Phoenix Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Frenzy of Arrows",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Frenzy of Arrows Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Frenzy of Arrows Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Glitterine Coat",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Shout of the Fernstalker",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Burn",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Burn II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Burn III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Splash",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Splash II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Summer's Deluge Splash III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Arcing Blades",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Arcing Blades Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Arcing Blades Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Engulfed by the Hunt",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Engulfed by the Hunt Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Engulfed by the Hunt Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Engulfed Effect",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Engulfed Effect II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Engulfed Effect III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Fernstalker's Discipline",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Fernstalker's Discipline Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Fernstalker's Discipline Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Focused Frenzy of Arrows",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Focused Frenzy of Arrows Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Focused Frenzy of Arrows Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Heartbreak",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Heartbreak Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Heartbreak Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Protection of Pal'Lomen",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Shadowveil",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Shadowveil Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Shadowveil Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Fusillade Strike 1",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Fusillade Strike 2",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Fusillade Strike 3",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Fusillade Strike 4",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Fusillade Strike 5",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Fusillade Strike 6",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Fusillade Strike 1",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Fusillade Strike 2",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Fusillade Strike 3",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Fusillade Strike 4",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Fusillade Strike 5",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Fusillade Strike 6",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Fusillade Strike 1",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Fusillade Strike 2",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Fusillade Strike 3",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Fusillade Strike 4",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Fusillade Strike 5",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Fusillade Strike 6",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Fusillade Strike 1",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Fusillade Strike 2",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Fusillade Strike 3",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Fusillade Strike 4",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Fusillade Strike 5",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Fusillade Strike 6",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  }
+]

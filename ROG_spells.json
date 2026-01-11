@@ -1,0 +1,4461 @@
+[
+  {
+    "level": 1,
+    "name": "Throw Stone",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 5,
+    "name": "Elbow Strike",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 10,
+    "name": "Focused Will Discipline",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 20,
+    "name": "Sneak Attack",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 30,
+    "name": "Resistant Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 40,
+    "name": "Fearless Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Thief's Vengeance",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 53,
+    "name": "Counterattack Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Deadeye Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Nimble Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Poison Spurs Trap",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "Kinesthetics Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Blinding Speed Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Duelist Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Rogue's Ploy",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Assassin's Strike",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Deadly Precision Discipline",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Healing Will Discipline",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Ancient: Chaos Strike",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Kyv Strike",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Twisted Chance Discipline",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Imperceptible Discipline",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Deadly Aim Discipline",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Thief's Eyes",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Assassin's Feint",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Daggerfall",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Frenzied Stabbing Discipline",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Poison Spikes Trap",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Razorarc",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Blinding Flash",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Blinding Flash Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Blinding Flash Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Second Wind",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Second Wind Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Second Wind Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Spelldodge Discipline",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Spelldodge Discipline Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Guide of Toxicity",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Guide of Toxicity Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Guide of Toxicity Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Lithe Discipline",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Lithe Discipline Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Pinpoint Vulnerability",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Pinpoint Vulnerability Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Pinpoint Vulnerability Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Assassin Discipline",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Assassin Discipline Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Assassin Discipline Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Blinding Flare",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Blinding Flare Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Blinding Flare Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Waylay",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Waylay Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Waylay Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jugular Slash",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jugular Slash Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Jugular Slash Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Third Wind",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Third Wind Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Third Wind Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Docent of Toxicity",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Docent of Toxicity Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Docent of Toxicity Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Pinpoint Weaknesses",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Pinpoint Weaknesses Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Pinpoint Weaknesses Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Fadelure",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Fadelure Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Fadelure Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Swiftblade",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Swiftblade Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Swiftblade Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Ambush",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Ambush Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Ambush Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Blinding Spark",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Blinding Spark Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Blinding Spark Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Fourth Wind",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Fourth Wind Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Fourth Wind Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jugular Slice",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jugular Slice Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Jugular Slice Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Bleed",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Bleed Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Bleed Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Lesson in Toxicity",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Lesson in Toxicity Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Lesson in Toxicity Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Vigorous Dagger-Throw",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Vigorous Dagger-Throw Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Vigorous Dagger-Throw Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Pinpoint Vitals",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Pinpoint Vitals Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Pinpoint Vitals Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Procure Sap",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Procure Sap Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Procure Sap Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Assault",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Assault Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Assault Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Daggerlunge",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Daggerlunge Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Daggerlunge Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Desperate Escape",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Desperate Escape Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Desperate Escape Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Smokescreen",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Smokescreen Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Smokescreen Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Assail",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Assail Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Assail Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Blinding Glare",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Blinding Glare Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Blinding Glare Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Easy Mark",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Easy Mark Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Easy Mark Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fifth Wind",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fifth Wind Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fifth Wind Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jugular Sever",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jugular Sever Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Jugular Sever Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Weapon Affiliation",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Weapon Affiliation Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Weapon Affiliation Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Instruction in Toxicity",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Instruction in Toxicity Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Instruction in Toxicity Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Vigorous Dagger-Strike",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Vigorous Dagger-Strike Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Vigorous Dagger-Strike Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Wound",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Wound Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Wound Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Fleet-Footed Discipline",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Fleet-Footed Discipline Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Fleet-Footed Discipline Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Misdirection",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Misdirection Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Misdirection Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Pinpoint Flaws",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Pinpoint Flaws Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Pinpoint Flaws Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Battery",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Battery Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Battery Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Daggerswipe",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Daggerswipe Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Daggerswipe Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Reckless Escape",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Reckless Escape Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Reckless Escape Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Smokeshroud",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Smokeshroud Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Smokeshroud Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Accost",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Accost Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Accost Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Blinding Gleam",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Blinding Gleam Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Blinding Gleam Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Simple Mark",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Simple Mark Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Simple Mark Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Distraction",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Distraction Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Distraction Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jugular Gash",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jugular Gash Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Jugular Gash Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Razor's Edge Discipline",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Razor's Edge Discipline Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Razor's Edge Discipline Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Sixth Wind",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Sixth Wind Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Sixth Wind Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Weapon Bond",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Weapon Bond Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Weapon Bond Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Energetic Dagger-Strike",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Energetic Dagger-Strike Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Energetic Dagger-Strike Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Inner Rejuvenation",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Inner Rejuvenation Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Inner Rejuvenation Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Lacerate",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Lacerate Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Lacerate Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Toxic Blade",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Toxic Blade Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Toxic Blade Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Delusion",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Delusion Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Delusion Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Pinpoint Liabilities",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Pinpoint Liabilities Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Pinpoint Liabilities Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Quick-Footed Discipline",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Quick-Footed Discipline Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Quick-Footed Discipline Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Daggerstrike",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Daggerstrike Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Daggerstrike Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Eradicator's Discipline",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Eradicator's Discipline Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Eradicator's Discipline Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Onslaught",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Onslaught Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Onslaught Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Smokeblind",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Smokeblind Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Smokeblind Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Wild Escape",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Wild Escape Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Wild Escape Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Beset",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Beset Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Beset Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Blinding Blaze",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Blinding Blaze Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Blinding Blaze Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Gullible Mark",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Gullible Mark Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Gullible Mark Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Thief's Vision",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Thief's Vision Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Thief's Vision Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Venomous Spike Trap",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Venomous Spike Trap Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Venomous Spike Trap Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Conditioned Reflexes",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Conditioned Reflexes Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Conditioned Reflexes Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Indiscernible Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Indiscernible Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Indiscernible Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jugular Lacerate",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jugular Lacerate Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Jugular Lacerate Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Seventh Wind",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Seventh Wind Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Seventh Wind Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Spell Evasion Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Spell Evasion Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Spell Evasion Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Weapon Covenant",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Weapon Covenant Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Weapon Covenant Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Asp Blade",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Asp Blade Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Asp Blade Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Energetic Dagger-Throw",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Energetic Dagger-Throw Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Energetic Dagger-Throw Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Fatal Aim Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Fatal Aim Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Fatal Aim Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gash",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gash Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gash Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Knifeplay Discipline",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Knifeplay Discipline Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Knifeplay Discipline Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Agile-Footed Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Agile-Footed Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Agile-Footed Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Aspbleeder Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Aspbleeder Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Aspbleeder Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Deceit",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Deceit Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Deceit Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Holdout Blade",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Holdout Blade Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Holdout Blade Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Pinpoint Deficiencies",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Pinpoint Deficiencies Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Pinpoint Deficiencies Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Daggerthrust",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Daggerthrust Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Daggerthrust Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Daring Escape",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Daring Escape Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Daring Escape Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Executioner Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Executioner Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Executioner Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Incursion",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Incursion Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Incursion Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Phantom Assassin",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Phantom Assassin Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Phantom Assassin Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Smokecloud",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Smokecloud Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Smokecloud Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Dichotomic Weapons",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Surprise Attack",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Surprise Attack Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Surprise Attack Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Wide-Eyed Mark",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Wide-Eyed Mark Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Wide-Eyed Mark Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Blinding Burst",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Blinding Burst Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Blinding Burst Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jugular Hack",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jugular Hack Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Jugular Hack Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shadow-Hunter's Dagger",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shadow-Hunter's Dagger Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shadow-Hunter's Dagger Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shrouding Speed Discipline",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shrouding Speed Discipline Rk. II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shrouding Speed Discipline Rk. III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shrouding Speed Shock",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shrouding Speed Shock II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shrouding Speed Shock III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Exuberant Dagger-Throw",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Exuberant Dagger-Throw Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Exuberant Dagger-Throw Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Hack",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Hack Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Hack Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Poisonous Alliance",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Poisonous Alliance Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Poisonous Alliance Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Reefcrawler Blade",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Reefcrawler Blade Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Reefcrawler Blade Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Arcwork Discipline",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Arcwork Discipline Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Arcwork Discipline Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disassociative Puncture",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disassociative Puncture Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disassociative Puncture Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disorientation",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disorientation Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disorientation Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Hidden Blade",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Hidden Blade Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Hidden Blade Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Audacious Escape",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Audacious Escape Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Audacious Escape Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Barrage",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Barrage Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Barrage Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Daggergash",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Daggergash Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Daggergash Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Smokeshade",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Smokeshade Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Smokeshade Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Dim-Witted Mark",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Dim-Witted Mark Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Dim-Witted Mark Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Dissident Weapons",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Lie in Wait",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Lie in Wait Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Lie in Wait Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Blinding Brilliance",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Blinding Brilliance Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Blinding Brilliance Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jugular Strike",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jugular Strike Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Jugular Strike Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Ragged Edge Discipline",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Ragged Edge Discipline Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Ragged Edge Discipline Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Undetectable Discipline",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Undetectable Discipline Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Undetectable Discipline Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Forceful Dagger-Throw",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Forceful Dagger-Throw Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Forceful Dagger-Throw Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Lethal Aim Discipline",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Lethal Aim Discipline Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Lethal Aim Discipline Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Poisonous Covenant",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Poisonous Covenant Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Poisonous Covenant Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skorpikis Blade",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skorpikis Blade Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Skorpikis Blade Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Slice",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Slice Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Slice Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Aculeus Discipline",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Aculeus Discipline Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Aculeus Discipline Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Diversion",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Diversion Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Diversion Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Pinpoint Shortcomings",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Pinpoint Shortcomings Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Pinpoint Shortcomings Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Secret Blade",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Secret Blade Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Secret Blade Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Vexatious Puncture",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Vexatious Puncture Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Vexatious Puncture Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Brazen Escape",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Brazen Escape Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Brazen Escape Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Daggerslice",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Daggerslice Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Daggerslice Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Fellstrike",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Fellstrike Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Fellstrike Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Smokegloom",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Smokegloom Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Smokegloom Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Bushwhack",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Bushwhack Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Bushwhack Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Composite Weapons",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Naive Mark",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Naive Mark Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Naive Mark Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Blinding Glint",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Blinding Glint Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Blinding Glint Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Cloaking Speed Discipline",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Cloaking Speed Discipline Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Cloaking Speed Discipline Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Cloaking Speed Shock",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Cloaking Speed Shock II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Cloaking Speed Shock III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jugular Cut",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jugular Cut Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Jugular Cut Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Neurotoxic Spike Trap",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Neurotoxic Spike Trap Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Neurotoxic Spike Trap Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Drachnid Blade",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Drachnid Blade Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Drachnid Blade Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Poisonous Coalition",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Poisonous Coalition Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Poisonous Coalition Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Powerful Dagger-Throw",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Powerful Dagger-Throw Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Powerful Dagger-Throw Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Slash",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Slash Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Slash Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Chelicerae Discipline",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Chelicerae Discipline Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Chelicerae Discipline Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Cloaked Blade",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Cloaked Blade Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Cloaked Blade Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Cozen",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Cozen Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Cozen Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Pinpoint Defects",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Pinpoint Defects Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Pinpoint Defects Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Vindictive Puncture",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Vindictive Puncture Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Vindictive Puncture Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Blitzstrike",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Blitzstrike Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Blitzstrike Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Bold Escape",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Bold Escape Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Bold Escape Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Daggerslash",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Daggerslash Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Daggerslash Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Practiced Reflexes",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Practiced Reflexes Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Practiced Reflexes Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Smokeveil",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Smokeveil Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Smokeveil Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Ambuscade",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Ambuscade Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Ambuscade Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Baleful Aim Discipline",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Baleful Aim Discipline Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Baleful Aim Discipline Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Ecliptic Weapons",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Foolish Mark",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Foolish Mark Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Foolish Mark Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Blinding Candescence",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Blinding Candescence Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Blinding Candescence Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jugular Rend",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jugular Rend Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Jugular Rend Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Thief's Sight",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Thief's Sight Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Thief's Sight Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Unseeable Discipline",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Unseeable Discipline Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Unseeable Discipline Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lance",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lance Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Lance Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Netherbian Blade",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Netherbian Blade Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Netherbian Blade Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Poisonous Conjunction",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Poisonous Conjunction Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Poisonous Conjunction Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Precise Dagger-Throw",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Precise Dagger-Throw Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Precise Dagger-Throw Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Beguile",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Beguile Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Beguile Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Disorienting Puncture",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Disorienting Puncture Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Disorienting Puncture Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Exotoxin Discipline",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Exotoxin Discipline Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Exotoxin Discipline Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Obfuscated Blade",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Obfuscated Blade Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Obfuscated Blade Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Agitating Smoke",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Agitating Smoke Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Agitating Smoke Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Gutsy Escape",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Gutsy Escape Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Gutsy Escape Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Shadowstrike",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Shadowstrike Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Shadowstrike Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Bamboozle",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Bamboozle Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Bamboozle Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Reckless Edge Discipline",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Reckless Edge Discipline Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Reckless Edge Discipline Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Unsuspecting Mark",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Unsuspecting Mark Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Unsuspecting Mark Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Blinding Glister",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Blinding Glister Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Blinding Glister Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jugular Hew",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jugular Hew Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Jugular Hew Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shadowed Speed Discipline",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shadowed Speed Discipline Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shadowed Speed Discipline Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shadowed Speed Shock",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shadowed Speed Shock II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shadowed Speed Shock III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Carve",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Carve Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Carve Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Tenacious Dagger-Throw",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Tenacious Dagger-Throw Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Tenacious Dagger-Throw Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Venomous Blade",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Venomous Blade Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Venomous Blade Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Crinotoxin Discipline",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Crinotoxin Discipline Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Crinotoxin Discipline Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Pinpoint Fault",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Pinpoint Fault Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Pinpoint Fault Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Trickery",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Trickery Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Trickery Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Veiled Blade",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Veiled Blade Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Veiled Blade Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Enthralling Smoke",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Enthralling Smoke Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Enthralling Smoke Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Mayhem",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Mayhem Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Mayhem Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Storied Escape",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Storied Escape Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Storied Escape Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Weapon Trigger 1",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Weapon Trigger 2",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Weapon Trigger 3",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Weapon Trigger 4",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Weapon Trigger 5",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Weapon Trigger 6",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Weapon Effect 1",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Weapon Effect 2",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Weapon Effect 3",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Weapon Effect 4",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Weapon Effect 5",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Weapon Effect 6",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Weapon Trigger 1",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Weapon Trigger 2",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Weapon Trigger 3",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Weapon Trigger 4",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Weapon Trigger 5",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Weapon Trigger 6",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Weapon Trigger 1",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Weapon Trigger 2",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Weapon Trigger 3",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Weapon Trigger 4",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Weapon Trigger 5",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Weapon Trigger 6",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  }
+]

@@ -1,0 +1,8927 @@
+[
+  {
+    "level": 1,
+    "name": "Chant of Battle",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 2,
+    "name": "Chords of Dissonance",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 4,
+    "name": "Lyssa's Locating Lyric",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 5,
+    "name": "Selo's Accelerando",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 6,
+    "name": "Hymn of Restoration",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 7,
+    "name": "Jonthan's Whistling Warsong",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 8,
+    "name": "Kelin's Lugubrious Lament",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 9,
+    "name": "Elemental Rhythms",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 9,
+    "name": "Magical Monologue",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 10,
+    "name": "Anthem de Arms",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 11,
+    "name": "Cinda's Charismatic Carillon",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 12,
+    "name": "Brusco's Boastful Bellow",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 13,
+    "name": "Purifying Rhythms",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 14,
+    "name": "Lyssa's Cataloging Libretto",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 15,
+    "name": "Kelin's Lucid Lullaby",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 15,
+    "name": "Song of Sustenance",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 16,
+    "name": "Tarew's Aquatic Ayre",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 17,
+    "name": "Guardian Rhythms",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 18,
+    "name": "Denon's Disruptive Discord",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 19,
+    "name": "Shauri's Sonorous Clouding",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 20,
+    "name": "Cassindra's Chant of Clarity",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 20,
+    "name": "Largo's Melodic Binding",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 21,
+    "name": "Melanie's Mellifluous Motion",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 22,
+    "name": "Alenia's Disenchanting Melody",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 23,
+    "name": "Selo's Consonant Chain",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 24,
+    "name": "Lyssa's Veracious Concord",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 25,
+    "name": "Psalm of Warmth",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 25,
+    "name": "Selo's Rhythm of Speed",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 26,
+    "name": "Angstlich's Appalling Screech",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 27,
+    "name": "Solon's Song of the Sirens",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 28,
+    "name": "Crission's Pixie Strike",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 29,
+    "name": "Psalm of Vitality",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 30,
+    "name": "Amplification",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 30,
+    "name": "Fufil's Curtailing Chant",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 31,
+    "name": "Agilmente's Aria of Eagles",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 32,
+    "name": "Cassindra's Chorus of Clarity",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 33,
+    "name": "Psalm of Cooling",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 34,
+    "name": "Cantata of Soothing",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 34,
+    "name": "Lyssa's Solidarity of Vision",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 35,
+    "name": "Denon's Dissension",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 36,
+    "name": "Vilia's Verses of Celerity",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 37,
+    "name": "Psalm of Purity",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 38,
+    "name": "Tuyen's Chant of Flame",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 39,
+    "name": "Katta's Song of Sword Dancing",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 39,
+    "name": "Solon's Bewitching Bravura",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 40,
+    "name": "Sionachie's Dreams",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 40,
+    "name": "Syvelian's Anti-Magic Aria",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 41,
+    "name": "Psalm of Mystic Shielding",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 42,
+    "name": "McVaxius' Berserker Crescendo",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 42,
+    "name": "Tuyen's Chant of Disease",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 43,
+    "name": "Denon's Desperate Dirge",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 44,
+    "name": "Cassindra's Elegy",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 45,
+    "name": "Aria of Asceticism",
+    "expansion": "LoY",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 45,
+    "name": "Jonthan's Provocation",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 45,
+    "name": "Rizlona's Embers",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 46,
+    "name": "Tuyen's Chant of Frost",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 47,
+    "name": "Niv's Melody of Preservation",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 48,
+    "name": "Selo's Chords of Cessation",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 49,
+    "name": "Selo's Accelerating Chorus",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 49,
+    "name": "Shield of Songs",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 50,
+    "name": "Melody of Ervaj",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 50,
+    "name": "Tuyen's Chant of Poison",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 50,
+    "name": "Verses of Victory",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Largo's Assonant Binding",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Resistant Discipline",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Selo's Song of Travel",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Aria of Innocence",
+    "expansion": "LoY",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Battlecry of the Vah Shir",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Nillipus' March of the Wee",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 53,
+    "name": "Rizlona's Fire",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 53,
+    "name": "Song of Dawn",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 53,
+    "name": "Song of Twilight",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Elemental Chorus",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Fearless Discipline",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Selo's Assonant Strain",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Vilia's Chorus of Celerity",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Aura of Insight",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Brusco's Bombastic Bellow",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Cantata of Replenishment",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Deftdance Discipline",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Occlusion of Sound",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Purifying Chorus",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Song of Highsun",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Song of Midnight",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "Cassindra's Insipid Ditty",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "McVaxius' Rousing Rondo",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "Soothing Psalm of the Sunrise",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Chorus of Replenishment",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Dreams of Ayonae",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Jonthan's Inspiration",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Niv's Harmonic",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Denon's Bereavement",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Solon's Charismatic Concord",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Ancient: Lcea's Lament",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Ancient: Lullaby of Shadow",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Angstlich's Assonance",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Composition of Ervaj",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Ervaj's Lost Composition",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Fufil's Diminishing Dirge",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Kazumi's Note of Preservation",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Puretone Discipline",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Warsong of the Vah Shir",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Saryrn's Scream of Pain",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Silent Song of Quellious",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Song of the Storm",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Tuyen's Chant of the Plague",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Angstlich's Echo of Terror",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Dreams of Thule",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Druzzil's Disillusionment",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Melody of Mischief",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Warsong of Zek",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Wind of Marr",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Psalm of Veeshan",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Tuyen's Chant of Ice",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Tuyen's Chant of Venom",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Call of the Banshee",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Chorus of Marr",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Dreams of Terris",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Minohten's Purifying Panpipes",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Minohten's Purifying Panpipes Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Minohten's Purifying Panpipes Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Requiem of Time",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Rizlona's Call of Flame",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Ancient: Chaos Chant",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Call of the Muse",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Dark Echo",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Echo of the Trusik",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Harmony of Sound",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Lullaby of Morell",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Staccato Rhythms",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Staccato Rhythms Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Staccato Rhythms Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Tuyen's Chant of Fire",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "War March of the Mastruq",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Bellow of Chaos",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Luvwen's Aria of Serenity",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Selo's Accelerato",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Vulka's Chant of Disease",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Angstlich's Wail of Panic",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Cantata of Life",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Luvwen's Lullaby",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Vulka's Chant of Frost",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Zuriki's Song of Shenanigans",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Creeping Dreams",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Dirge of Metala",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Vulka's Chant of Poison",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "War March of Muram",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Yelhun's Mystic Call",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Chorus of Life",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Eriki's Psalm of Power",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Storm Blade",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Thousand Blades",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Verse of Vesagran",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Ancient: Call of Power",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Arcane Aria",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Aura of the Muse",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Voice of the Vampire",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Vulka's Chant of Flame",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Vulka's Lullaby",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Aelfric's Last Lullaby",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Aelfric's Last Lullaby Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Erollisi's Cantata",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Erollisi's Cantata Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Erollisi's Cantata Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Jonthan's Mightful Caretaker",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Jonthan's Mightful Caretaker Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Jonthan's Mightful Caretaker Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Whispersong of Veshma",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Whispersong of Veshma Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Ervaj's Defensive Refrain",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Ervaj's Defensive Refrain Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Ervaj's Defensive Refrain Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Song of the Dryads",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Song of the Dryads Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Weshlu's Chillsong Aria",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Weshlu's Chillsong Aria Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Weshlu's Chillsong Aria Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Aviak's Wondrous Warble",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Aviak's Wondrous Warble Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Aviak's Wondrous Warble Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Erollisi's Chorus",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Erollisi's Chorus Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Erollisi's Chorus Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Fermata of Preservation",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Fermata of Preservation Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Fermata of Preservation Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Performer's Psalm of Pyrotechnics",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Performer's Psalm of Pyrotechnics Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Performer's Psalm of Pyrotechnics Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Beckon of the Tuffein",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Beckon of the Tuffein Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Queen Eletyl's Screech",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Queen Eletyl's Screech Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Selo's Accelerating Canto",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Denon's Dirge of Destruction",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Denon's Dirge of Destruction Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Denon's Dirge of Destruction Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Staccato Cadence",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Staccato Cadence Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Staccato Cadence Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Veshma's Lively Crescendo",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Veshma's Lively Crescendo Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Veshma's Lively Crescendo Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Amber's Last Lullaby",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Amber's Last Lullaby Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Amber's Last Lullaby Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Aria of the Artist",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Aria of the Artist Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Aria of the Artist Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Cantata of Restoration",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Cantata of Restoration Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Cantata of Restoration Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Elddar's Dawnsong",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Elddar's Dawnsong Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Elddar's Dawnsong Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Vyskudra's Chant of Disease",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Vyskudra's Chant of Disease Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Vyskudra's Chant of Disease Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Dirge of the Darkvine",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Dirge of the Darkvine Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Dirge of the Darkvine Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Garadell's Fatesong",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Garadell's Fatesong Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Garadell's Fatesong Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Rhythm of Restoration",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Rhythm of Restoration Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Rhythm of Restoration Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Zeixshi-Kar's Chant of Frost",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Zeixshi-Kar's Chant of Frost Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Zeixshi-Kar's Chant of Frost Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Chorus of Restoration",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Chorus of Restoration Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Chorus of Restoration Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Coldcrow's Spry Sonata",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Coldcrow's Spry Sonata Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Coldcrow's Spry Sonata Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Erradien's Psalm of Potency",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Erradien's Psalm of Potency Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Erradien's Psalm of Potency Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Kildrukaun's Chant of Poison",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Kildrukaun's Chant of Poison Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Kildrukaun's Chant of Poison Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Performer's Explosive Aria",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Performer's Explosive Aria Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Performer's Explosive Aria Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Command of Queen Veneneu",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Command of Queen Veneneu Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Command of Queen Veneneu Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Kirathas' Cleansing Clarinet",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Kirathas' Cleansing Clarinet Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Kirathas' Cleansing Clarinet Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "War March of Meldrath",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "War March of Meldrath Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "War March of Meldrath Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Yowl of the Bloodmoon",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Yowl of the Bloodmoon Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Yowl of the Bloodmoon Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Arcane Anthem",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Arcane Anthem Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Arcane Anthem Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Aura of the Artist",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Aura of the Artist Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Aura of the Artist Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Denon's Dirge of Devastation",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Denon's Dirge of Devastation Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Denon's Dirge of Devastation Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Kaerra's Spirited Crescendo",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Kaerra's Spirited Crescendo Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Kaerra's Spirited Crescendo Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Tjudawos' Chant of Flame",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Tjudawos' Chant of Flame Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Tjudawos' Chant of Flame Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Aria of the Poet",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Aria of the Poet Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Aria of the Poet Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Cantata of Rodcet",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Cantata of Rodcet Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Cantata of Rodcet Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Requiem for the Lost",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Requiem for the Lost Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Requiem for the Lost Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Serenity of Oceangreen",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Serenity of Oceangreen Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Serenity of Oceangreen Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Silence of the Void",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Silence of the Void Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Silence of the Void Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Trakanon's Chant of Disease",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Trakanon's Chant of Disease Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Trakanon's Chant of Disease Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Aura of Rodcet",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Aura of Rodcet Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Aura of Rodcet Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Dirge of the Fallen Rathe",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Dirge of the Fallen Rathe Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Dirge of the Fallen Rathe Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Fatesong of the Gelidran",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Fatesong of the Gelidran Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Fatesong of the Gelidran Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Gorenaire's Chant of Frost",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Gorenaire's Chant of Frost Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Gorenaire's Chant of Frost Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Pulse of Rodcet",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Pulse of Rodcet Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Pulse of Rodcet Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Chorus of Rodcet",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Chorus of Rodcet Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Chorus of Rodcet Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Dance of the Dragorn",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Dance of the Dragorn Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Dance of the Dragorn Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Druzzil's Psalm of Potency",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Druzzil's Psalm of Potency Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Druzzil's Psalm of Potency Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Pests of the Piper",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Pests of the Piper Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Pests of the Piper Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Severilous' Chant of Poison",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Severilous' Chant of Poison Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Severilous' Chant of Poison Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Talendor's Aria",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Talendor's Aria Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Talendor's Aria Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Firiona's Blessed Clarinet",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Firiona's Blessed Clarinet Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Firiona's Blessed Clarinet Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Mirror Melody",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Mirror Melody Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Mirror Melody Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Slumber of the Mindshear",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Slumber of the Mindshear Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Slumber of the Mindshear Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Voice of the Mindshear",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Voice of the Mindshear Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Voice of the Mindshear Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "War March of Brekt",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "War March of Brekt Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "War March of Brekt Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Arcane Arietta",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Arcane Arietta Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Arcane Arietta Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Aura of the Poet",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Aura of the Poet Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Aura of the Poet Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Autarchian Mindwrack",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Autarchian Mindwrack Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Autarchian Mindwrack Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Cantata of Courage",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Cantata of Courage Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Cantata of Courage Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Denon's Dirge of Discord",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Denon's Dirge of Discord Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Denon's Dirge of Discord Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Gruber's Lively Crescendo",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Gruber's Lively Crescendo Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Gruber's Lively Crescendo Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Talendor's Chant of Flame",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Talendor's Chant of Flame Rk.II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Talendor's Chant of Flame Rk.III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Venimor's Insult",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Venimor's Insult Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Venimor's Insult Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Wave of Slumber",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Wave of Slumber Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Wave of Slumber Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Aria of Amelioration",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Aria of Amelioration Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Aria of Amelioration Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Aria of the Composer",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Aria of the Composer Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Aria of the Composer Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Lullaby of the Lost",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Lullaby of the Lost Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Lullaby of the Lost Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Pulse of Renewal",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Pulse of Renewal Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Pulse of Renewal Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Rumbling Barrier",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Rumbling Barrier Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Rumbling Barrier Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Shiverback's Chant of Disease",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Shiverback's Chant of Disease Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Shiverback's Chant of Disease Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Silence of the Dreamer",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Silence of the Dreamer Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Silence of the Dreamer Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Song of Recalcitrance",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Song of Recalcitrance Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Song of Recalcitrance Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Aura of Renewal",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Aura of Renewal Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Aura of Renewal Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Dirge of Dreams",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Dirge of Dreams Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Dirge of Dreams Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Echo of Renewal",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Echo of Renewal Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Echo of Renewal Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fatesong of Fergar",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fatesong of Fergar Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fatesong of Fergar Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fergar's Chant of Frost",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fergar's Chant of Frost Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Fergar's Chant of Frost Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Sionachie's Sympathetic Psalm",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Sionachie's Sympathetic Psalm Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Sionachie's Sympathetic Psalm Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Alleviating Accelerando",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Alleviating Accelerando Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Alleviating Accelerando Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Chorus of Renewal",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Chorus of Renewal Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Chorus of Renewal Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lyrin's Psalm of Potency",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lyrin's Psalm of Potency Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Lyrin's Psalm of Potency Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Sionachie's Spry Sonata",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Sionachie's Spry Sonata Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Sionachie's Spry Sonata Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Sotor's Aria",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Sotor's Aria Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Sotor's Aria Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Spinechiller's Chant of Poison",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Spinechiller's Chant of Poison Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Spinechiller's Chant of Poison Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Noira's Song of Suffering",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Noira's Song of Suffering Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Noira's Song of Suffering Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Slumber of Sionachie",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Slumber of Sionachie Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Slumber of Sionachie Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Voice of Sionachie",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Voice of Sionachie Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Voice of Sionachie Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "War March of Dagda",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "War March of Dagda Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "War March of Dagda Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Arcane Chorus",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Arcane Chorus Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Arcane Chorus Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Aura of the Composer",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Aura of the Composer Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Aura of the Composer Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Denon's Dirge of Disruption",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Denon's Dirge of Disruption Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Denon's Dirge of Disruption Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Echo of the Composer",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Echo of the Composer Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Echo of the Composer Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyrin's Insult",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyrin's Insult Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyrin's Insult Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyrin's Spiteful Lyric",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyrin's Spiteful Lyric Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyrin's Spiteful Lyric Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyssa's Lively Crescendo",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyssa's Lively Crescendo Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Lyssa's Lively Crescendo Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Sotor's Chant of Flame",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Sotor's Chant of Flame Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Sotor's Chant of Flame Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Wave of Dreams",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Wave of Dreams Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Wave of Dreams Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Aria of Impeccability",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Aria of Impeccability Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Aria of Impeccability Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Aria of the Orator",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Aria of the Orator Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Aria of the Orator Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Lullaby of the Forlorn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Lullaby of the Forlorn Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Lullaby of the Forlorn Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Pulse of Lunanyn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Pulse of Lunanyn Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Pulse of Lunanyn Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Silence of the Windsong",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Silence of the Windsong Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Silence of the Windsong Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Thunderous Barrier",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Thunderous Barrier Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Thunderous Barrier Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Wasinai's Chant of Disease",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Wasinai's Chant of Disease Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Wasinai's Chant of Disease Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Aura of Lunanyn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Aura of Lunanyn Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Aura of Lunanyn Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Echo of Lunanyn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Echo of Lunanyn Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Echo of Lunanyn Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Fatesong of Illdaera",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Fatesong of Illdaera Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Fatesong of Illdaera Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Kalbrok's Chant of Frost",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Kalbrok's Chant of Frost Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Kalbrok's Chant of Frost Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Lapsing Lullaby",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Lapsing Lullaby Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Lapsing Lullaby Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Assuaging Accelerando",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Assuaging Accelerando Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Assuaging Accelerando Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Chorus of Lunanyn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Chorus of Lunanyn Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Chorus of Lunanyn Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Daevan's Aria",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Daevan's Aria Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Daevan's Aria Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Hiqork's Chant of Poison",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Hiqork's Chant of Poison Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Hiqork's Chant of Poison Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Ryken's Reckless Renewal",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Ryken's Reckless Renewal Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Ryken's Reckless Renewal Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Terasal's Spry Sonata",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Terasal's Spry Sonata Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Terasal's Spry Sonata Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Wasinai's Psalm of Potency",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Wasinai's Psalm of Potency Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Wasinai's Psalm of Potency Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Hykast's Song of Suffering",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Hykast's Song of Suffering Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Hykast's Song of Suffering Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Oratory of Invitation",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Oratory of Invitation Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Oratory of Invitation Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Oratory of Opposition",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Oratory of Opposition Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Oratory of Opposition Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Slumber of Kolain",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Slumber of Kolain Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Slumber of Kolain Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Voice of Kolain",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Voice of Kolain Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Voice of Kolain Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "War March of Illdaera",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "War March of Illdaera Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "War March of Illdaera Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Arcane Address",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Arcane Address Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Arcane Address Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Aura of the Orator",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Aura of the Orator Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Aura of the Orator Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Daevan's Chant of Flame",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Daevan's Chant of Flame Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Daevan's Chant of Flame Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Echo of the Orator",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Echo of the Orator Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Echo of the Orator Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Hykast's Insult",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Hykast's Insult Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Hykast's Insult Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Hykast's Spiteful Lyric",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Hykast's Spiteful Lyric Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Hykast's Spiteful Lyric Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Kolain's Lively Crescendo",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Kolain's Lively Crescendo Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Kolain's Lively Crescendo Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Wave of the Conductor",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Wave of the Conductor Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Wave of the Conductor Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Aria of Absolution",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Aria of Absolution Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Aria of Absolution Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Aria of Va'Ker",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Aria of Va'Ker Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Aria of Va'Ker Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Lullaby of the Forsaken",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Lullaby of the Forsaken Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Lullaby of the Forsaken Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Pulse of Salarra",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Pulse of Salarra Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Pulse of Salarra Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Resounding Barrier",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Resounding Barrier Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Resounding Barrier Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Siavonn's Chant of Disease",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Siavonn's Chant of Disease Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Siavonn's Chant of Disease Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Silence of the Forsaken",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Silence of the Forsaken Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Silence of the Forsaken Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "War Chorus of Protan",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "War Chorus of Protan Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "War Chorus of Protan Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Aura of Salarra",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Aura of Salarra Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Aura of Salarra Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Echo of Salarra",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Echo of Salarra Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Echo of Salarra Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Edoth's Chant of Frost",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Edoth's Chant of Frost Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Edoth's Chant of Frost Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Fatesong of Protan",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Fatesong of Protan Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Fatesong of Protan Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Garath's Insult",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Garath's Insult Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Garath's Insult Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Harmony of Tone",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Harmony of Tone Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Harmony of Tone Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ameliorating Accelerando",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ameliorating Accelerando Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ameliorating Accelerando Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Chorus of Salarra",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Chorus of Salarra Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Chorus of Salarra Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Doben's Spry Sonata",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Doben's Spry Sonata Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Doben's Spry Sonata Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gosik's Aria",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gosik's Aria Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gosik's Aria Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Psalm of the Forsaken",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Psalm of the Forsaken Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Psalm of the Forsaken Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ruaabri's Reckless Renewal",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ruaabri's Reckless Renewal Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Ruaabri's Reckless Renewal Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Siavonn's Psalm of Potency",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Siavonn's Psalm of Potency Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Siavonn's Psalm of Potency Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Slaunk's Chant of Poison",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Slaunk's Chant of Poison Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Slaunk's Chant of Poison Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Corpseflower's Assonant Binding",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Corpseflower's Assonant Binding Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Corpseflower's Assonant Binding Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Dirge of Salubra",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Dirge of Salubra Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Dirge of Salubra Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Kaficus' Song of Suffering",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Kaficus' Song of Suffering Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Kaficus' Song of Suffering Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Protan's Melodic Binding",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Protan's Melodic Binding Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Protan's Melodic Binding Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Slumber of Motlak",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Slumber of Motlak Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Slumber of Motlak Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Voice of Motlak",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Voice of Motlak Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Voice of Motlak Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "War March of Protan",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "War March of Protan Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "War March of Protan Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Arcane Hymn",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Arcane Hymn Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Arcane Hymn Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Aura of Va'Ker",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Aura of Va'Ker Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Aura of Va'Ker Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Brusco's Burning Call",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Brusco's Burning Call Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Brusco's Burning Call Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Echo of Va'Ker",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Echo of Va'Ker Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Echo of Va'Ker Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Gosik's Chant of Flame",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Gosik's Chant of Flame Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Gosik's Chant of Flame Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Kaficus' Insult",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Kaficus' Insult Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Kaficus' Insult Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Kaficus' Spiteful Lyric",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Kaficus' Spiteful Lyric Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Kaficus' Spiteful Lyric Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Motlak's Lively Crescendo",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Motlak's Lively Crescendo Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Motlak's Lively Crescendo Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Retort",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Recourse: Reflected Retort",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Retort Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Recourse: Reflected Retort II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Retort Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Recourse: Reflected Retort III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Wave of Quietude",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Wave of Quietude Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Wave of Quietude Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Aria of Maetanrus",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Aria of Maetanrus Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Aria of Maetanrus Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Dichotomic Psalm",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Echoing Barrier",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Echoing Barrier Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Echoing Barrier Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Horthin's Chant of Disease",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Horthin's Chant of Disease Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Horthin's Chant of Disease Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Lullaby of Silisia",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Lullaby of Silisia Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Lullaby of Silisia Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Pulse of Sionachie",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Pulse of Sionachie Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Pulse of Sionachie Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Silence of Silisia",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Silence of Silisia Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Silence of Silisia Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Alliance of Sticks and Stones",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Alliance of Sticks and Stones Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Alliance of Sticks and Stones Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Aura of Sionachie",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Aura of Sionachie Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Aura of Sionachie Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Echo of Sionachie",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Echo of Sionachie Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Echo of Sionachie Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Fatesong of Jocelyn",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Fatesong of Jocelyn Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Fatesong of Jocelyn Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Fjilnauk's Insult",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Fjilnauk's Insult Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Fjilnauk's Insult Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Kirchen's Chant of Frost",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Kirchen's Chant of Frost Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Kirchen's Chant of Frost Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Silisia's Demand",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Silisia's Demand Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Silisia's Demand Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Allaying Accelerando",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Allaying Accelerando Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Allaying Accelerando Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Chorus of Sionachie",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Chorus of Sionachie Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Chorus of Sionachie Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Horthin's Psalm of Potency",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Horthin's Psalm of Potency Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Horthin's Psalm of Potency Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Nilsara's Aria",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Nilsara's Aria Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Nilsara's Aria Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Plague of the Piper",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Plague of the Piper Rk. II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Plague of the Piper Rk. III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Rytan's Reckless Renewal",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Rytan's Reckless Renewal Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Rytan's Reckless Renewal Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Serisaria's Chant of Poison",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Serisaria's Chant of Poison Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Serisaria's Chant of Poison Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Fjilnauk's Song of Suffering",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Fjilnauk's Song of Suffering Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Fjilnauk's Song of Suffering Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Requiem for the Dead",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Requiem for the Dead Rk. II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Requiem for the Dead Rk. III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Silisia's Lively Crescendo",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Silisia's Lively Crescendo Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Silisia's Lively Crescendo Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Slumber of Silisia",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Slumber of Silisia Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Slumber of Silisia Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Voice of Silisia",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Voice of Silisia Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Voice of Silisia Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "War March of Jocelyn",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "War March of Jocelyn Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "War March of Jocelyn Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Arcane Melody",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Arcane Melody Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Arcane Melody Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Aura of Maetanrus",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Aura of Maetanrus Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Aura of Maetanrus Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Echo of Maetanrus",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Echo of Maetanrus Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Echo of Maetanrus Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Fjilnauk's Spiteful Lyric",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Fjilnauk's Spiteful Lyric Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Fjilnauk's Spiteful Lyric Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Nilsara's Chant of Flame",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Nilsara's Chant of Flame Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Nilsara's Chant of Flame Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Reflexive Rejoinder",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Reflexive Rejoinder Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Reflexive Rejoinder Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Tsaph's Insult",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Tsaph's Insult Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Tsaph's Insult Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Wave of Torpor",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Wave of Torpor Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Wave of Torpor Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Aria of Begalru",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Aria of Begalru Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Aria of Begalru Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Dissident Psalm",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hoshkar's Chant of Disease",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hoshkar's Chant of Disease Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hoshkar's Chant of Disease Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Lullaby of Jembel",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Lullaby of Jembel Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Lullaby of Jembel Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Pulse of Xigam",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Pulse of Xigam Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Pulse of Xigam Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Reverberating Barrier",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Reverberating Barrier Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Reverberating Barrier Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Silence of Jembel",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Silence of Jembel Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Silence of Jembel Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Aura of Xigam",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Aura of Xigam Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Aura of Xigam Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Dirge of Lost Horizons",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Dirge of Lost Horizons Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Dirge of Lost Horizons Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Echo of Xigam",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Echo of Xigam Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Echo of Xigam Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Ekron's Chant of Frost",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Ekron's Chant of Frost Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Ekron's Chant of Frost Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Fatesong of Dekloaz",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Fatesong of Dekloaz Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Fatesong of Dekloaz Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Travenro's Insult",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Travenro's Insult Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Travenro's Insult Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Akett's Psalm of Potency",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Akett's Psalm of Potency Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Akett's Psalm of Potency Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Atoning Accelerando",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Atoning Accelerando Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Atoning Accelerando Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Chorus of Xigam",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Chorus of Xigam Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Chorus of Xigam Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Kluzen's Spry Sonata",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Kluzen's Spry Sonata Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Kluzen's Spry Sonata Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Nexona's Chant of Poison",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Nexona's Chant of Poison Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Nexona's Chant of Poison Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Qunard's Aria",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Qunard's Aria Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Qunard's Aria Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Rigelon's Reckless Renewal",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Rigelon's Reckless Renewal Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Rigelon's Reckless Renewal Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Second Psalm of Veeshan",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Second Psalm of Veeshan Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Second Psalm of Veeshan Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Dawnbreeze's Demand",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Dawnbreeze's Demand Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Dawnbreeze's Demand Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Dekloaz's Melodic Binding",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Dekloaz's Melodic Binding Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Dekloaz's Melodic Binding Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Jembel's Lively Crescendo",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Jembel's Lively Crescendo Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Jembel's Lively Crescendo Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shardstubble's Assonant Binding",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shardstubble's Assonant Binding Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Shardstubble's Assonant Binding Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Slumber of Jembel",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Slumber of Jembel Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Slumber of Jembel Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Travenro's Song of Suffering",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Travenro's Song of Suffering Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Travenro's Song of Suffering Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Voice of Jembel",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Voice of Jembel Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Voice of Jembel Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "War March of Dekloaz",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "War March of Dekloaz Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "War March of Dekloaz Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Arcane Ballad",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Arcane Ballad Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Arcane Ballad Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Aura of Begalru",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Aura of Begalru Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Aura of Begalru Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "CoVenant of Sticks and Stones",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "CoVenant of Sticks and Stones Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "CoVenant of Sticks and Stones Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Echo of Begalru",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Echo of Begalru Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Echo of Begalru Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Magmalisk's Burning Call",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Magmalisk's Burning Call Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Magmalisk's Burning Call Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Qunard's Chant of Flame",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Qunard's Chant of Flame Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Qunard's Chant of Flame Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Sathir's Insult",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Sathir's Insult Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Sathir's Insult Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Travenro's Spiteful Lyric",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Travenro's Spiteful Lyric Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Travenro's Spiteful Lyric Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wave of Somnolence",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wave of Somnolence Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Wave of Somnolence Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Aria of Margidor",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Aria of Margidor Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Aria of Margidor Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Composite Psalm",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Lullaby of Zburator",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Lullaby of Zburator Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Lullaby of Zburator Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Pulse of Vhal`Sera",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Pulse of Vhal`Sera Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Pulse of Vhal`Sera Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Requiem for the Cursed",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Requiem for the Cursed Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Requiem for the Cursed Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Silence of Zburator",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Silence of Zburator Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Silence of Zburator Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Tonitruous Barrier",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Tonitruous Barrier Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Tonitruous Barrier Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Zlexak's Chant of Disease",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Zlexak's Chant of Disease Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Zlexak's Chant of Disease Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Aura of Vhal`Sera",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Aura of Vhal`Sera Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Aura of Vhal`Sera Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Dirge of the Restless",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Dirge of the Restless Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Dirge of the Restless Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Echo of Vhal`Sera",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Echo of Vhal`Sera Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Echo of Vhal`Sera Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Fatesong of Radiwol",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Fatesong of Radiwol Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Fatesong of Radiwol Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Omorden's Insult",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Omorden's Insult Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Omorden's Insult Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Yelinak's Chant of Frost",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Yelinak's Chant of Frost Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Yelinak's Chant of Frost Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Chorus of Vhal`Sera",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Chorus of Vhal`Sera Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Chorus of Vhal`Sera Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Kellek's Spry Sonata",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Kellek's Spry Sonata Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Kellek's Spry Sonata Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Malvus's Chant of Poison",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Malvus's Chant of Poison Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Malvus's Chant of Poison Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Placating Accelerando",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Placating Accelerando Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Placating Accelerando Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Psalm of the Restless",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Psalm of the Restless Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Psalm of the Restless Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Reflexive Rebuttal",
+    "expansion": "CoVCoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Reflexive Rebuttal Rk. II",
+    "expansion": "CoVCoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Reflexive Rebuttal Rk. III",
+    "expansion": "CoVCoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Reivaj's Reckless Renewal",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Reivaj's Reckless Renewal Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Reivaj's Reckless Renewal Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Sontalak's Aria",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Sontalak's Aria Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Sontalak's Aria Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Velketor's Psalm of Potency",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Velketor's Psalm of Potency Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Velketor's Psalm of Potency Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Desirae's Demand",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Desirae's Demand Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Desirae's Demand Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Mahaha's Assonant Binding",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Mahaha's Assonant Binding Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Mahaha's Assonant Binding Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Omorden's Song of Suffering",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Omorden's Song of Suffering Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Omorden's Song of Suffering Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Radiwol's Melodic Binding",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Radiwol's Melodic Binding Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Radiwol's Melodic Binding Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Slumber of Zburator",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Slumber of Zburator Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Slumber of Zburator Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Voice of Zburator",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Voice of Zburator Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Voice of Zburator Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "War March of Radiwol",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "War March of Radiwol Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "War March of Radiwol Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Zburator's Lively Crescendo",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Zburator's Lively Crescendo Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Zburator's Lively Crescendo Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Arcane Symphony",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Arcane Symphony Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Arcane Symphony Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Aura of Margidor",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Aura of Margidor Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Aura of Margidor Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Coalition of Sticks and Stones",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Coalition of Sticks and Stones Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Coalition of Sticks and Stones Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Echo of Margidor",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Echo of Margidor Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Echo of Margidor Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Omorden's Spiteful Lyric",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Omorden's Spiteful Lyric Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Omorden's Spiteful Lyric Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "SoFia's Burning Call",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "SoFia's Burning Call Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "SoFia's Burning Call Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Sontalak's Chant of Flame",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Sontalak's Chant of Flame Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Sontalak's Chant of Flame Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Wave of Sleep",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Wave of Sleep Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Wave of Sleep Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Yelinak's Insult",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Yelinak's Insult Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Yelinak's Insult Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Aria of Pli Xin Liako",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Aria of Pli Xin Liako Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Aria of Pli Xin Liako Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Coagulus' Chant of Disease",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Coagulus' Chant of Disease Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Coagulus' Chant of Disease Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Ecliptic Psalm",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Lullaby of Nightfall",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Lullaby of Nightfall Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Lullaby of Nightfall Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Pulse of Nikolas",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Pulse of Nikolas Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Pulse of Nikolas Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Silence of Quietus",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Silence of Quietus Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Silence of Quietus Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Vibrato Barrier",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Vibrato Barrier Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Vibrato Barrier Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Aura of Shei Vinitras",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Aura of Shei Vinitras Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Aura of Shei Vinitras Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Dirge of the Onokiwan",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Dirge of the Onokiwan Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Dirge of the Onokiwan Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Echo of Shei Vinitras",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Echo of Shei Vinitras Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Echo of Shei Vinitras Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Fatesong of Lucca",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Fatesong of Lucca Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Fatesong of Lucca Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Sogran's Insult",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Sogran's Insult Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Sogran's Insult Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Sylra Fris' Chant of Frost",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Sylra Fris' Chant of Frost Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Sylra Fris' Chant of Frost Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Chorus of Shei Vinitras",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Chorus of Shei Vinitras Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Chorus of Shei Vinitras Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Constance's Aria",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Constance's Aria Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Constance's Aria Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Cruor's Chant of Poison",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Cruor's Chant of Poison Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Cruor's Chant of Poison Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Fior's Psalm of Potency",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Fior's Psalm of Potency Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Fior's Psalm of Potency Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Kai's Reckless Renewal",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Kai's Reckless Renewal Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Kai's Reckless Renewal Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Nord's Disdain",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Nord's Disdain Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Nord's Disdain Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Psalm of the Pious",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Psalm of the Pious Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Psalm of the Pious Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Satisfying Accelerando",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Satisfying Accelerando Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Satisfying Accelerando Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Spry Sonata",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Spry Sonata Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Spry Sonata Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Namdrows' Assonant Binding",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Namdrows' Assonant Binding Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Namdrows' Assonant Binding Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Omiyad's Demand",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Omiyad's Demand Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Omiyad's Demand Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Shojralen's Song of Suffering",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Shojralen's Song of Suffering Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Shojralen's Song of Suffering Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Slumber of the Diabo",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Slumber of the Diabo Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Slumber of the Diabo Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Voice of the Diabo",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Voice of the Diabo Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Voice of the Diabo Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "War March of Centien Xi Va Xakra",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "War March of Centien Xi Va Xakra Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "War March of Centien Xi Va Xakra Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Zelinstein's Lively Crescendo",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Zelinstein's Lively Crescendo Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Zelinstein's Lively Crescendo Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Arcane Harmony",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Arcane Harmony Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Arcane Harmony Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Aura of Pli Xin Liako",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Aura of Pli Xin Liako Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Aura of Pli Xin Liako Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Conjunction of Sticks and Stones",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Conjunction of Sticks and Stones Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Conjunction of Sticks and Stones Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Echo of Pli Xin Liako",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Echo of Pli Xin Liako Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Echo of Pli Xin Liako Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Luclin's Burning Call",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Luclin's Burning Call Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Luclin's Burning Call Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Shak Dathor's Chant of Flame",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Shak Dathor's Chant of Flame Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Shak Dathor's Chant of Flame Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Von Deek's Spiteful Lyric",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Von Deek's Spiteful Lyric Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Von Deek's Spiteful Lyric Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "War Chorus of the Bloodbeast",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "War Chorus of the Bloodbeast Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "War Chorus of the Bloodbeast Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Wave of Nocturn",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Wave of Nocturn Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Wave of Nocturn Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Aria of Tenisbre",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Aria of Tenisbre Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Aria of Tenisbre Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Goremand's Chant of Disease",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Goremand's Chant of Disease Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Goremand's Chant of Disease Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Lullaby of the Forgotten",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Lullaby of the Forgotten Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Lullaby of the Forgotten Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Pulse of August",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Pulse of August Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Pulse of August Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Resonating Barrier",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Resonating Barrier Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Resonating Barrier Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Silence of the Forgotten",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Silence of the Forgotten Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Silence of the Forgotten Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Aura of Shalowain",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Aura of Shalowain Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Aura of Shalowain Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Echo of Shalowain",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Echo of Shalowain Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Echo of Shalowain Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Eoreg's Insult",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Eoreg's Insult Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Eoreg's Insult Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Fatesong of Zoraxmen",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Fatesong of Zoraxmen Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Fatesong of Zoraxmen Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Flariton's Aria",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Flariton's Aria Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Flariton's Aria Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Swarn's Chant of Frost",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Swarn's Chant of Frost Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Swarn's Chant of Frost Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Appeasing Accelerando",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Appeasing Accelerando Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Appeasing Accelerando Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Chorus of Shalowain",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Chorus of Shalowain Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Chorus of Shalowain Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Dhakka's Spry Sonata",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Dhakka's Spry Sonata Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Dhakka's Spry Sonata Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Grayleaf's Reckless Renewal",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Grayleaf's Reckless Renewal Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Grayleaf's Reckless Renewal Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Marsin's Chant of Poison",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Marsin's Chant of Poison Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Marsin's Chant of Poison Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Psalm of the Nomad",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Psalm of the Nomad Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Psalm of the Nomad Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Tatalros' Psalm of Potency",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Tatalros' Psalm of Potency Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Tatalros' Psalm of Potency Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Arcane Rhythm",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Arcane Rhythm Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Arcane Rhythm Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Kanghammer's Song of Suffering",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Kanghammer's Song of Suffering Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Kanghammer's Song of Suffering Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Regar's Lively Crescendo",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Regar's Lively Crescendo Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Regar's Lively Crescendo Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Rimeclaw's Assonant Binding",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Rimeclaw's Assonant Binding Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Rimeclaw's Assonant Binding Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Slumber of Suja",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Slumber of Suja Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Slumber of Suja Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Voice of Suja",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Voice of Suja Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Voice of Suja Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "War March of Nokk",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "War March of Nokk Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "War March of Nokk Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Zinnia's Melodic Binding",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Zinnia's Melodic Binding Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Zinnia's Melodic Binding Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Aura of Tenisbre",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Aura of Tenisbre Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Aura of Tenisbre Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Echo of Tenisbre",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Echo of Tenisbre Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Echo of Tenisbre Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Firethorn's Burning Call",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Firethorn's Burning Call Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Firethorn's Burning Call Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Kindleheart's Chant of Flame",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Kindleheart's Chant of Flame Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Kindleheart's Chant of Flame Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Tatalros' Spiteful Lyric",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Tatalros' Spiteful Lyric Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Tatalros' Spiteful Lyric Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Wave of Stupor",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Wave of Stupor Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Wave of Stupor Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Empowerment 1",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Empowerment 2",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Empowerment 3",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Empowerment 4",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Empowerment 5",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Empowerment 6",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Potential 1",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Potential 2",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Potential 3",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Potential 4",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Potential 5",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Psalm of Potential 6",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Empowerment 1",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Empowerment 2",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Empowerment 3",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Empowerment 4",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Empowerment 5",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Empowerment 6",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Potential 1",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Potential 2",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Potential 3",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Potential 4",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Potential 5",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Psalm of Potential 6",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Empowerment 1",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Empowerment 2",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Empowerment 3",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Empowerment 4",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Empowerment 5",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Empowerment 6",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Potential 1",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Potential 2",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Potential 3",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Potential 4",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Potential 5",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Psalm of Potential 6",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Empowerment 1",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Empowerment 2",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Empowerment 3",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Empowerment 4",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Empowerment 5",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Empowerment 6",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Potential 1",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Potential 2",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Potential 3",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Potential 4",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Potential 5",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Psalm of Potential 6",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  }
+]

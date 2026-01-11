@@ -1,0 +1,10397 @@
+[
+  {
+    "level": 1,
+    "name": "Spike of Disease",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 2,
+    "name": "Sense the Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 3,
+    "name": "Locate Corpse",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 4,
+    "name": "Invisibility Versus Undead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 5,
+    "name": "Disease Cloud",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 6,
+    "name": "Siphon Strength",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 7,
+    "name": "Leering Corpse",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 8,
+    "name": "Lifetap",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 9,
+    "name": "Despair",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 9,
+    "name": "Numb the Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 10,
+    "name": "Endure Cold",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 11,
+    "name": "Clinging Darkness",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 12,
+    "name": "Fear",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 12,
+    "name": "Lesser Summon Corpse",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 13,
+    "name": "Shadow Step",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 14,
+    "name": "Bone Walk",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 15,
+    "name": "Lifespike",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 15,
+    "name": "Scream of Hate",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 16,
+    "name": "Grim Aura",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 17,
+    "name": "Deadeye",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 18,
+    "name": "Ward Undead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 19,
+    "name": "Cure Disease",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 19,
+    "name": "Tiny Companion",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 20,
+    "name": "Engulfing Darkness",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 20,
+    "name": "Spook the Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 21,
+    "name": "Dark Empathy",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 22,
+    "name": "Convoke Shadow",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 22,
+    "name": "Vampiric Embrace",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 23,
+    "name": "Scream of Pain",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 24,
+    "name": "Feign Death",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 26,
+    "name": "Endure Disease",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 27,
+    "name": "Wave of Enfeeblement",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 28,
+    "name": "Heat Blood",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 29,
+    "name": "Lifedraw",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 29,
+    "name": "Strengthen Death",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 30,
+    "name": "Gather Shadows",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 30,
+    "name": "Restless Bones",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 31,
+    "name": "Shieldskin",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 32,
+    "name": "Dark Temptation",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 33,
+    "name": "Terror of Darkness",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 34,
+    "name": "Spear of Disease",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 35,
+    "name": "Resist Cold",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 35,
+    "name": "Shroud of Hate",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 35,
+    "name": "Summon Corpse",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 36,
+    "name": "Cancel Magic",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 36,
+    "name": "Heart Flutter",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 37,
+    "name": "Scream of Death",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 37,
+    "name": "Shadow Vortex",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 38,
+    "name": "Animate Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 39,
+    "name": "Expulse Undead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 39,
+    "name": "Voice of Darkness",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 40,
+    "name": "Shadow Sight",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 41,
+    "name": "Blood of Pain",
+    "expansion": "LoY",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 42,
+    "name": "Terror of Shadows",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 43,
+    "name": "Invoke Fear",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 44,
+    "name": "Dooming Darkness",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 45,
+    "name": "Breath of the Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 45,
+    "name": "Word of Spirit",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 46,
+    "name": "Summon Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 46,
+    "name": "Voice of Shadows",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 47,
+    "name": "Life Leech",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 47,
+    "name": "Scythe of Darkness",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 48,
+    "name": "Spear of Pain",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 49,
+    "name": "Dismiss Undead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 50,
+    "name": "Harmshield",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 50,
+    "name": "Shroud of Pain",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Resistant Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 51,
+    "name": "Siphon Life",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Abduction of Strength",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Comatose",
+    "expansion": "LoY",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Malignant Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Mental Corruption",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Rest the Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 52,
+    "name": "Summon Companion",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 53,
+    "name": "Boil Blood",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 53,
+    "name": "Terror of Death",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Banshee Aura",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Call of Darkness",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Fearless Discipline",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Panic the Dead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Scythe of Death",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Spear of Plague",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 54,
+    "name": "Torrent of Hate",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Bobbing Corpse",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Expel Undead",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Shroud of Death",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Shroud of Undeath",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Spirit Tap",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Unholy Aura Discipline",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 55,
+    "name": "Voice of Death",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Ichor Guard",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Soulless Fear",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Steelskin",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 56,
+    "name": "Torrent of Pain",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "Conjure Corpse",
+    "expansion": "Kunark",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "Drain Spirit",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "Shadow Voice",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 57,
+    "name": "Vampiric Curse",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Cackling Bones",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Deathly Temptation",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Nullify Magic",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 58,
+    "name": "Torrent of Fatigue",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Cascading Darkness",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Deflection Discipline",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Diamondskin",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 59,
+    "name": "Terror of Terris",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Asystole",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Augment Death",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Cloak of the Akheva",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Death Peace",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Drain Soul",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Leechcurse Discipline",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 60,
+    "name": "Voice of Terris",
+    "expansion": "Luclin",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Aura of Darkness",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Festering Darkness",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Ignite Blood",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Improved Invisibility to Undead",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Soul Guard",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 61,
+    "name": "Soulless Panic",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Bond of Death",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Deny Undead",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Shadow Bellow",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Touch of Volatis",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 62,
+    "name": "Zevfeer's Bite",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Aura of Pain",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Blood of Hate",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Shroud of Chaos",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 63,
+    "name": "Terror of Thule",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Augmentation of Death",
+    "expansion": "Velious",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Invoke Death",
+    "expansion": "EQ",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Pact of Hate",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Scythe of Innoruuk",
+    "expansion": "LDoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 64,
+    "name": "Spear of Decay",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Ancient: Bite of Chaos",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Aura of Hate",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Black Shroud",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Cloak of Luclin",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Mental Horror",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Miasmic Spear",
+    "expansion": "Gates",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Touch of Innoruuk",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 65,
+    "name": "Voice of Thule",
+    "expansion": "PoP",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Blood of Discord",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Bond of Inruku",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Dark Constriction",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 66,
+    "name": "Soulless Terror",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Inruku's Bite",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Shadow Howl",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Shroud of Discord",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Terror of Discord",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 67,
+    "name": "Touch of Inruku",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Blood of Inruku",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Fickle Shadows",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Scythe of Inruku",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Son of Decay",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 68,
+    "name": "Theft of Pain",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Dread Gaze",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Gift of Draygun",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Pact of Decay",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Rune of Decay",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Soul Shield",
+    "expansion": "DoN",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Spear of Muram",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 69,
+    "name": "Touch of Draygun",
+    "expansion": "DoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Ancient: Bite of Muram",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Cloak of Discord",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Decrepit Skin",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Theft of Agony",
+    "expansion": "PoR",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Theft of Hate",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 70,
+    "name": "Touch of the Devourer",
+    "expansion": "Omens",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Blacktalon Bite",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Blacktalon Bite Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Blacktalon Bite Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Bond of the Blacktalon",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Bond of the Blacktalon Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Bond of the Blacktalon Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Exhumer's Call",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Marrowthirst Horror",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Marrowthirst Horror Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Marrowthirst Horror Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Terror of Vergalid",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Terror of Vergalid Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 71,
+    "name": "Terror of Vergalid Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Blood of the Blacktalon",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Blood of the Blacktalon Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Challenge for Power",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Challenge for Power Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Challenge for Power Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Shroud of the Nightborn",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 72,
+    "name": "Shroud of the Nightborn Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Amplify Death",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Amplify Death Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Amplify Death Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Dark Bargain",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Dark Bargain Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Drink of Decomposition",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Drink of Decomposition Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Shambling Minion",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Soul Carapace",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Soul Carapace Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 73,
+    "name": "Soul Carapace Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Cloak of Corruption",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Cloak of Corruption Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Rotroot Spear",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Rotroot Spear Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Rotroot Spear Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Vilify",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Vilify Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 74,
+    "name": "Vilify Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Gift of the Wailing Three",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Gift of the Wailing Three II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Gift of the Wailing Three III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Last Breath",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Last Breath Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Remorseless Demeanor",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Remorseless Demeanor Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Touch of Severan",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Touch of Severan Rk. II",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Touch of Severan Rk. III",
+    "expansion": "TSS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Touch of the Wailing Three",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Touch of the Wailing Three Rk. II",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 75,
+    "name": "Touch of the Wailing Three Rk. III",
+    "expansion": "TBS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Blackwater Bite",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Blackwater Bite Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Blackwater Bite Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Bond of the Blackwater",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Bond of the Blackwater Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Bond of the Blackwater Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Procure Corpse",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Soulthirst Horror",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Soulthirst Horror Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Soulthirst Horror Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Terror of the Soulbleeder",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Terror of the Soulbleeder Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 76,
+    "name": "Terror of the Soulbleeder Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Assiduous Impurity",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Assiduous Impurity Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Assiduous Impurity Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Blood of the Blackwater",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Blood of the Blackwater Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Blood of the Blackwater Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Shroud of the Gloomborn",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Shroud of the Gloomborn Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Shroud of the Gloomborn Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Trial for Power",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Trial for Power Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 77,
+    "name": "Trial for Power Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Expatiate Death",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Expatiate Death Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Expatiate Death Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Grim Covenant",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Grim Covenant Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Grim Covenant Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Maladroit Minion",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Maladroit Minion Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Maladroit Minion Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Rigor Mortis",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Rigor Mortis Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Rigor Mortis Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Umbral Carapace",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Umbral Carapace Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 78,
+    "name": "Umbral Carapace Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Drape of Corruption",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Drape of Corruption Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Drape of Corruption Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Revile",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Revile Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Revile Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Rotmarrow Spear",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Rotmarrow Spear Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 79,
+    "name": "Rotmarrow Spear Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Gift of the Soulbleeder",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Gift of the Soulbleeder II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Gift of the Soulbleeder III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Last Gasp",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Last Gasp Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Last Gasp Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Touch of Kildrukaun",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Touch of Kildrukaun Rk. II",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Touch of Kildrukaun Rk. III",
+    "expansion": "Sof",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Touch of the Soulbleeder",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Touch of the Soulbleeder Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Touch of the Soulbleeder Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Umbral Skin",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Umbral Skin Rk. II",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 80,
+    "name": "Umbral Skin Rk. III",
+    "expansion": "SoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Bond of Laarthik",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Bond of Laarthik Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Bond of Laarthik Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Laarthik's Bite",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Laarthik's Bite Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Laarthik's Bite Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Mindshear Horror",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Mindshear Horror Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Mindshear Horror Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Reaper's Call",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Terror of Jelvalak",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Terror of Jelvalak Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 81,
+    "name": "Terror of Jelvalak Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Blood of Laarthik",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Blood of Laarthik Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Blood of Laarthik Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Charge for Power",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Charge for Power Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Charge for Power Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Plague of the Karanas",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Plague of the Karanas Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Plague of the Karanas Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Shroud of the Blightborn",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Shroud of the Blightborn Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 82,
+    "name": "Shroud of the Blightborn Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Gift of Sathir",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Gift of Sathir Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Gift of Sathir Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Malarian Carapace",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Malarian Carapace Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Malarian Carapace Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Malarian Mantle",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Malarian Mantle Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Malarian Mantle Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Minion of Sebilis",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Minion of Sebilis Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Minion of Sebilis Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Unsavory Detonation",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Unsavory Detonation Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Unsavory Detonation Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Unsavory Sacrifice",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Unsavory Sacrifice Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Unsavory Sacrifice Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Venril's Covenant",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Venril's Covenant Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Venril's Covenant Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Withstand",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Withstand Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 83,
+    "name": "Withstand Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Burst of Spite",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Burst of Spite Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Burst of Spite Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Drape of Korafax",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Drape of Korafax Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Drape of Korafax Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Malarian Spear",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Malarian Spear Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Malarian Spear Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Steely Stance",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Steely Stance Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 84,
+    "name": "Steely Stance Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Curse of Frailty",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Curse of Frailty Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Curse of Frailty Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Dire Constriction",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Dire Constriction Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Dire Constriction Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Dire Implication",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Dire Implication Rk. II",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Dire Implication Rk. III",
+    "expansion": "UF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Final Breath",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Final Breath Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Final Breath Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Gift of Lanys",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Gift of Lanys II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Gift of Lanys III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Malarian Skin",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Malarian Skin Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Malarian Skin Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Touch of Lanys",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Touch of Lanys Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Touch of Lanys Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Touch of Tharoff",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Touch of Tharoff Rk. II",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 85,
+    "name": "Touch of Tharoff Rk. III",
+    "expansion": "SoD",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Amygdalan Horror",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Amygdalan Horror Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Amygdalan Horror Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Banshee Skin",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Banshee Skin Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Banshee Skin Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Bond of Malthiasiss",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Bond of Malthiasiss Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Bond of Malthiasiss Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Malthiasiss's Bite",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Malthiasiss's Bite Recourse",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Malthiasiss's Bite Recourse II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Malthiasiss's Bite Recourse III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Malthiasiss's Bite Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Malthiasiss's Bite Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Reaper's Beckon",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Respite Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Terror of Rerekalen",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Terror of Rerekalen Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 86,
+    "name": "Terror of Rerekalen Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Blood of Malthiasiss",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Blood of Malthiasiss Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Blood of Malthiasiss Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Confrontation for Power",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Confrontation for Power Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Confrontation for Power Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Despairing Darkness",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Despairing Darkness Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Despairing Darkness Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Plague of Iglum",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Plague of Iglum Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Plague of Iglum Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Shroud of the Plagueborne",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Shroud of the Plagueborne Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 87,
+    "name": "Shroud of the Plagueborne Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Defy",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Defy Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Defy Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gift of Dyalgem",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gift of Dyalgem Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gift of Dyalgem Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gixblat's Covenant",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gixblat's Covenant Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gixblat's Covenant Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Carapace",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Carapace Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Carapace Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Lifedraw",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Lifedraw II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Lifedraw III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Mantle",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Mantle Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Mantle Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Shattering",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Shattering II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Gorgon Shattering III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Minion of Fear",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Minion of Fear Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Minion of Fear Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Repulsive Detonation",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Repulsive Detonation Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Repulsive Detonation Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Repulsive Sacrifice",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Repulsive Sacrifice Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 88,
+    "name": "Repulsive Sacrifice Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Call of Dusk",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Call of Dusk Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Call of Dusk Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Darkness",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Darkness II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Darkness III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Drape of Fear",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Drape of Fear Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Drape of Fear Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Gorgon Spear",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Gorgon Spear Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Gorgon Spear Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Insidious Blight",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Insidious Blight Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Insidious Blight Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Loathing",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Loathing Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Loathing Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Stubborn Stance",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Stubborn Stance Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 89,
+    "name": "Stubborn Stance Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Curse of Enfeeblement",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Curse of Enfeeblement Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Curse of Enfeeblement Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Dire Accusation",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Dire Accusation Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Dire Accusation Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Dire Restriction",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Dire Restriction Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Dire Restriction Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Gift of Iglum",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Gift of Iglum II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Gift of Iglum III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Gorgon Skin",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Gorgon Skin Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Gorgon Skin Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Last Breath",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Last Breath Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Last Breath Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Sweet Breath",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Sweet Breath II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Sweet Breath III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Touch of Dyalgem",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Touch of Dyalgem Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Touch of Dyalgem Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Touch of Iglum",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Touch of Iglum Rk. II",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 90,
+    "name": "Touch of Iglum Rk. III",
+    "expansion": "HoT",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Bond of Korum",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Bond of Korum Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Bond of Korum Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Ghoul Skin",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Ghoul Skin Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Ghoul Skin Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Korum's Bite",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Korum's Bite Recourse",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Korum's Bite Recourse II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Korum's Bite Recourse III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Korum's Bite Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Korum's Bite Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reaper's Decree",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Reprieve Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Sholothian Horror",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Sholothian Horror Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Sholothian Horror Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Terror of Desalin",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Terror of Desalin Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 91,
+    "name": "Terror of Desalin Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Blood of Korum",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Blood of Korum Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Blood of Korum Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Gouging Blade",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Gouging Blade Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Gouging Blade Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Insidious Audacity",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Insidious Audacity Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Insidious Audacity Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Plague of Piqiorn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Plague of Piqiorn Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Plague of Piqiorn Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Provocation for Power",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Provocation for Power Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Provocation for Power Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Shroud of the Shadeborne",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Shroud of the Shadeborne Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Shroud of the Shadeborne Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Suppurating Darkness",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Suppurating Darkness Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 92,
+    "name": "Suppurating Darkness Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Abhorrent Detonation",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Abhorrent Detonation Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Abhorrent Detonation Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Abhorrent Sacrifice",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Abhorrent Sacrifice Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Abhorrent Sacrifice Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Gift of Urash",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Gift of Urash Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Gift of Urash Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Minion of Sholoth",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Minion of Sholoth Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Minion of Sholoth Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Recondite Mantle",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Recondite Mantle Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Recondite Mantle Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Recondite Shattering",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Recondite Shattering II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Recondite Shattering III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Renounce",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Renounce Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Renounce Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sholothian Carapace",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sholothian Carapace Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sholothian Carapace Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sholothian Lifedraw",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sholothian Lifedraw II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Sholothian Lifedraw III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Worag's Covenant",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Worag's Covenant Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 93,
+    "name": "Worag's Covenant Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Abhorrence",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Abhorrence Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Abhorrence Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Call of Shadow",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Call of Shadow Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Call of Shadow Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Drape of the Sepulcher",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Drape of the Sepulcher Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Drape of the Sepulcher Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Perfidious Blight",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Perfidious Blight Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Perfidious Blight Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Spear of Sholoth",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Spear of Sholoth Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Spear of Sholoth Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Stoic Stance",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Stoic Stance Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Stoic Stance Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Undivided Acrimony",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Undivided Acrimony Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 94,
+    "name": "Undivided Acrimony Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Crimson Blade",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Crimson Blade Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Crimson Blade Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Dire Allegation",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Dire Allegation Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Dire Allegation Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Dire Stenosis",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Dire Stenosis Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Dire Stenosis Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Final Gasp",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Final Gasp Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Final Gasp Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Gift of Piqiorn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Gift of Piqiorn II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Gift of Piqiorn III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Sholothian Skin",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Sholothian Skin Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Sholothian Skin Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Sweet Breath",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Sweet Breath II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Sweet Breath III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Touch of Piqiorn",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Touch of Piqiorn Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Touch of Piqiorn Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Touch of Urash",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Touch of Urash Rk. II",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 95,
+    "name": "Touch of Urash Rk. III",
+    "expansion": "VoA",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Bond of Ralstok",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Bond of Ralstok Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Bond of Ralstok Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Grelleth's Horror",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Grelleth's Horror Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Grelleth's Horror Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Mental Terror",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Mental Terror Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Mental Terror Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Ralstok's Bite",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Ralstok's Bite Recourse",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Ralstok's Bite Recourse II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Ralstok's Bite Recourse III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Ralstok's Bite Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Ralstok's Bite Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Reaper's Proclamation",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Rest Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Terror of Poira",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Terror of Poira Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Terror of Poira Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Zombie Skin",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Zombie Skin Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 96,
+    "name": "Zombie Skin Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Blood of Ralstok",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Blood of Ralstok Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Blood of Ralstok Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Demand for Power",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Demand for Power Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Demand for Power Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Duplicitous Audacity",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Duplicitous Audacity Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Duplicitous Audacity Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Gashing Blade",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Gashing Blade Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Gashing Blade Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Agitation",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Agitation II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Agitation III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Influence",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Influence Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Influence Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Reward",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Reward II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Insolent Reward III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Plague of Klonda",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Plague of Klonda Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Plague of Klonda Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Shroud of the Darksworn",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Shroud of the Darksworn Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Shroud of the Darksworn Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Smoldering Darkness",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Smoldering Darkness Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Smoldering Darkness Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Unholy Guardian Discipline",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Unholy Guardian Discipline Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Unholy Guardian Discipline Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Unholy Guardian Lifetap",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Unholy Guardian Lifetap II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 97,
+    "name": "Unholy Guardian Lifetap III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bonebrood Mantle",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bonebrood Mantle Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bonebrood Mantle Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bonebrood Shattering",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bonebrood Shattering II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Bonebrood Shattering III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Falhotep's Covenant",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Falhotep's Covenant Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Falhotep's Covenant Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gift of Falsin",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gift of Falsin Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Gift of Falsin Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Grelleth's Carapace",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Grelleth's Carapace Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Grelleth's Carapace Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Grelleth's Lifedraw",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Grelleth's Lifedraw II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Grelleth's Lifedraw III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Insidious Deflection",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Insidious Deflection Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Insidious Deflection Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Minion of Grelleth",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Minion of Grelleth Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Minion of Grelleth Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Reprove",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Reprove Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 98,
+    "name": "Reprove Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Call of Gloomhaze",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Call of Gloomhaze Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Call of Gloomhaze Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Drape of the Fallen",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Drape of the Fallen Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Drape of the Fallen Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Repugnance",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Repugnance Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Repugnance Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Repugnant Bargain",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Repugnant Bargain Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Repugnant Bargain Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Ronak's Spite",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Ronak's Spite II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Ronak's Spite III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Spear of Grelleth",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Spear of Grelleth Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Spear of Grelleth Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Spite of Ronak",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Spite of Ronak Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Spite of Ronak Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Steadfast Stance",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Steadfast Stance Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Steadfast Stance Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Surreptitious Blight",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Surreptitious Blight Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Surreptitious Blight Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Unbroken Acrimony",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Unbroken Acrimony Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 99,
+    "name": "Unbroken Acrimony Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Dire Insinuation",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Dire Insinuation Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Dire Insinuation Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Dire Stricture",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Dire Stricture Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Dire Stricture Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Gift of Klonda",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Gift of Klonda II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Gift of Klonda III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Grelleth's Skin",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Grelleth's Skin Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Grelleth's Skin Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Rancor",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Rancor Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Reflexive Rancor Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Scarlet Blade",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Scarlet Blade Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Scarlet Blade Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Sweet Breath",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Sweet Breath II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Sweet Breath III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Terminal Breath",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Terminal Breath Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Terminal Breath Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Torrent of Agony",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Torrent of Agony Rk. II",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Torrent of Agony Rk. III",
+    "expansion": "CotF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Touch of Falsin",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Touch of Falsin Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Touch of Falsin Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Touch of Klonda",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Touch of Klonda Rk. II",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 100,
+    "name": "Touch of Klonda Rk. III",
+    "expansion": "RoF",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bond of Bonemaw",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bond of Bonemaw Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bond of Bonemaw Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bonemaw's Bite",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bonemaw's Bite Recourse",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bonemaw's Bite Recourse II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bonemaw's Bite Recourse III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bonemaw's Bite Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Bonemaw's Bite Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Breather Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Dichotomic Fang",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Mental Dread",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Mental Dread Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Mental Dread Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Stormreaper's Proclamation",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Terror of Narus",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Terror of Narus Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Terror of Narus Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Vizat's Horror",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Vizat's Horror Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 101,
+    "name": "Vizat's Horror Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Blood of Bonemaw",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Blood of Bonemaw Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Blood of Bonemaw Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impose for Power",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impose for Power Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impose for Power Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Agitation",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Agitation II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Agitation III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Influence",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Influence Heal",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Influence Heal II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Influence Heal III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Influence Rk. II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Influence Rk. III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Reward",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Reward II",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Impudent Reward III",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Lacerating Blade",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Lacerating Blade Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Lacerating Blade Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Plague of Holmein",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Plague of Holmein Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Plague of Holmein Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shroud of the Doomscale",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shroud of the Doomscale Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Shroud of the Doomscale Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Spreading Darkness",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Spreading Darkness Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 102,
+    "name": "Spreading Darkness Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Deceitful Deflection",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Deceitful Deflection Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Deceitful Deflection Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Doomscale Mantle",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Doomscale Mantle Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Doomscale Mantle Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Doomscale Shattering",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Doomscale Shattering II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Doomscale Shattering III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Gift of Lutzen",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Gift of Lutzen Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Gift of Lutzen Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Harmonious Disruption",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Harmonious Disruption Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Harmonious Disruption Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Livio's Covenant",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Livio's Covenant Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Livio's Covenant Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Minion of Vizat",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Minion of Vizat Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Minion of Vizat Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Repel",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Repel Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Repel Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Vizat's Carapace",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Vizat's Carapace Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Vizat's Carapace Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Vizat's Lifedraw",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Vizat's Lifedraw II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 103,
+    "name": "Vizat's Lifedraw III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Bloodletting Alliance",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Bloodletting Alliance Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Bloodletting Alliance Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Deceitful Blight",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Deceitful Blight Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Deceitful Blight Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disgust",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disgust Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Disgust Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Distasteful Bargain",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Distasteful Bargain Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Distasteful Bargain Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Drape of the Wrathforged",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Drape of the Wrathforged Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Drape of the Wrathforged Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Reflexive Revulsion",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Reflexive Revulsion Rk. II",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Reflexive Revulsion Rk. III",
+    "expansion": "EoK",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Spear of Vizat",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Spear of Vizat Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Spear of Vizat Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Staunch Stance",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Staunch Stance Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Staunch Stance Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Unflinching Acrimony",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Unflinching Acrimony Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 104,
+    "name": "Unflinching Acrimony Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Carmine Blade",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Carmine Blade Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Carmine Blade Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Dire Declaration",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Dire Declaration Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Dire Declaration Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Dire Strangulation",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Dire Strangulation Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Dire Strangulation Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Gift of Holmein",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Gift of Holmein II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Gift of Holmein III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Torrent of Misery",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Torrent of Misery Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Torrent of Misery Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Touch of Holmein",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Touch of Holmein Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Touch of Holmein Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Touch of Lutzen",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Touch of Lutzen Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Touch of Lutzen Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Vizat's Skin",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Vizat's Skin Rk. II",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 105,
+    "name": "Vizat's Skin Rk. III",
+    "expansion": "TDS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Bond of Xalgoz",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Bond of Xalgoz Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Bond of Xalgoz Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Dissident Fang",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Helot Skin",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Helot Skin Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Helot Skin Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Hiatus Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Mental Fright",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Mental Fright Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Mental Fright Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Shadereaper's Proclamation",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Terror of Kra`Du",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Terror of Kra`Du Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Terror of Kra`Du Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Tylix's Horror",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Tylix's Horror Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Tylix's Horror Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Xalgoz's Bite",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Xalgoz's Bite Recourse",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Xalgoz's Bite Recourse II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Xalgoz's Bite Recourse III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Xalgoz's Bite Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 106,
+    "name": "Xalgoz's Bite Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Blood of Drakus",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Blood of Drakus Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Blood of Drakus Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cursed Guardian Discipline",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cursed Guardian Discipline Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cursed Guardian Discipline Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cursed Guardian Lifetap",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cursed Guardian Lifetap II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Cursed Guardian Lifetap III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Mendacious Audacity",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Mendacious Audacity Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Mendacious Audacity Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Plague of Hemofax",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Plague of Hemofax Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Plague of Hemofax Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Putrefying Darkness",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Putrefying Darkness Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Putrefying Darkness Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Refute for Power",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Refute for Power Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Refute for Power Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Shroud of the Krellnakor",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Shroud of the Krellnakor Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Shroud of the Krellnakor Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Wounding Blade",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Wounding Blade Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 107,
+    "name": "Wounding Blade Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Concordant Disruption",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Concordant Disruption Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Concordant Disruption Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Gift of T`Vem",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Gift of T`Vem Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Gift of T`Vem Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Helot Covenant",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Helot Covenant Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Helot Covenant Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Insidious Denial",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Insidious Denial Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Insidious Denial Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Krellnakor Mantle",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Krellnakor Mantle Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Krellnakor Mantle Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Krellnakor Shattering",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Krellnakor Shattering II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Krellnakor Shattering III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Minion of T`Vem",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Minion of T`Vem Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Minion of T`Vem Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Spurn",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Spurn Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Spurn Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Tylix's Carapace",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Tylix's Carapace Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Tylix's Carapace Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Tylix's Lifedraw",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Tylix's Lifedraw II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 108,
+    "name": "Tylix's Lifedraw III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Bloodletting Covenant",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Bloodletting Covenant Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Bloodletting Covenant Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Call of Nightfall",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Call of Nightfall Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Call of Nightfall Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Defiant Stance",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Defiant Stance Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Defiant Stance Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Drape of the Magmaforged",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Drape of the Magmaforged Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Drape of the Magmaforged Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Duplicitous Blight",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Duplicitous Blight Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Duplicitous Blight Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Hateful Bargain",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Hateful Bargain Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Hateful Bargain Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Kra`Du's Spite",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Kra`Du's Spite II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Kra`Du's Spite III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Revulsion",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Revulsion Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Revulsion Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Spear of Tylix",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Spear of Tylix Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Spear of Tylix Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Spite of Kra`Du",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Spite of Kra`Du Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Spite of Kra`Du Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Unyielding Acrimony",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Unyielding Acrimony Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 109,
+    "name": "Unyielding Acrimony Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Claret Blade",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Claret Blade Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Claret Blade Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Dire Coarctation",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Dire Coarctation Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Dire Coarctation Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Dire Testimony",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Dire Testimony Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Dire Testimony Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Gift of Hemofax",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Gift of Hemofax II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Gift of Hemofax III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Agitation",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Agitation II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Agitation III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Influence",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Influence Heal",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Influence Heal II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Influence Heal III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Influence Rk. II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Influence Rk. III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Reward",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Reward II",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Impenitent Reward III",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Torrent of Suffering",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Torrent of Suffering Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Torrent of Suffering Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Touch of Hemofax",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Touch of Hemofax Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Touch of Hemofax Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Touch of T`Vem",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Touch of T`Vem Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Touch of T`Vem Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Tylix's Skin",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Tylix's Skin Rk. II",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 110,
+    "name": "Tylix's Skin Rk. III",
+    "expansion": "RoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Bond of Vulak",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Bond of Vulak Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Bond of Vulak Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Cadcane's Horror",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Cadcane's Horror Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Cadcane's Horror Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Composite Fang",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Duskreaper's Proclamation",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Mental Torment",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Mental Torment Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Mental Torment Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Relax Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Specter Skin",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Specter Skin Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Specter Skin Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Terror of Mirenilla",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Terror of Mirenilla Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Terror of Mirenilla Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Vulak's Bite",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Vulak's Bite Recourse",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Vulak's Bite Recourse II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Vulak's Bite Recourse III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Vulak's Bite Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 111,
+    "name": "Vulak's Bite Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Blood of Ikatiar",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Blood of Ikatiar Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Blood of Ikatiar Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Pestilent Darkness",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Pestilent Darkness Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Pestilent Darkness Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Plague of Zlandicar",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Plague of Zlandicar Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Plague of Zlandicar Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Protest for Power",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Protest for Power Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Protest for Power Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Reflexive Resentment",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Reflexive Resentment Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Reflexive Resentment Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Rending Blade",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Rending Blade Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Rending Blade Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Shroud of the Restless",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Shroud of the Restless Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Shroud of the Restless Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Treacherous Audacity",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Treacherous Audacity Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 112,
+    "name": "Treacherous Audacity Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cadcane's Carapace",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cadcane's Carapace Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cadcane's Carapace Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cadcane's Lifedraw",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cadcane's Lifedraw II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Cadcane's Lifedraw III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Confluent Disruption",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Confluent Disruption Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Confluent Disruption Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Gift of Drendar",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Gift of Drendar Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Gift of Drendar Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Insidious Rejection",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Insidious Rejection Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Insidious Rejection Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Minion of Drendar",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Minion of Drendar Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Minion of Drendar Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Restless Mantle",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Restless Mantle Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Restless Mantle Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Restless Shattering",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Restless Shattering II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Restless Shattering III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Syl`Tor Covenant",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Syl`Tor Covenant Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Syl`Tor Covenant Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Thwart",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Thwart Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 113,
+    "name": "Thwart Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Abhorrent Bargain",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Abhorrent Bargain Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Abhorrent Bargain Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Bloodletting Coalition",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Bloodletting Coalition Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Bloodletting Coalition Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Call of Twilight",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Call of Twilight Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Call of Twilight Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Contempt",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Contempt Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Contempt Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Drape of the Iceforged",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Drape of the Iceforged Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Drape of the Iceforged Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Mirenilla's Spite",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Mirenilla's Spite II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Mirenilla's Spite III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Nefarious Blight",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Nefarious Blight Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Nefarious Blight Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Spear of Cadcane",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Spear of Cadcane Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Spear of Cadcane Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Spite of Mirenilla",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Spite of Mirenilla Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Spite of Mirenilla Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Stormwall Stance",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Stormwall Stance Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Stormwall Stance Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Unending Acrimony",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Unending Acrimony Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 114,
+    "name": "Unending Acrimony Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Cadcane's Skin",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Cadcane's Skin Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Cadcane's Skin Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Cerise Blade",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Cerise Blade Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Cerise Blade Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Dire Convulsion",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Dire Convulsion Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Dire Convulsion Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Dire Indictment",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Dire Indictment Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Dire Indictment Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Gift of Zlandicar",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Gift of Zlandicar II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Gift of Zlandicar III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Agitation",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Agitation II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Agitation III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Influence",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Influence Heal",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Influence Heal II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Influence Heal III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Influence Rk. II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Influence Rk. III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Reward",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Reward II",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Impertinent Reward III",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Torrent of Anguish",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Torrent of Anguish Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Torrent of Anguish Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Touch of Drendar",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Touch of Drendar Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Touch of Drendar Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Touch of Zlandicar",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Touch of Zlandicar Rk. II",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 115,
+    "name": "Touch of Zlandicar Rk. III",
+    "expansion": "ToV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Bond of Bynn",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Bond of Bynn Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Bond of Bynn Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Brightfeld's Horror",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Brightfeld's Horror Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Brightfeld's Horror Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Cruor's Bite",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Cruor's Bite Recourse",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Cruor's Bite Recourse II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Cruor's Bite Recourse III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Cruor's Bite Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Cruor's Bite Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Ecliptic Fang",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Mental Anguish",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Mental Anguish Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Mental Anguish Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Night's Calming Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Tekuel Skin",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Tekuel Skin Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Tekuel Skin Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Terror of Ander",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Terror of Ander Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Terror of Ander Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 116,
+    "name": "Thanatos' Proclamation",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Blood of Tearc",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Blood of Tearc Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Blood of Tearc Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Corrupted Guardian Discipline",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Corrupted Guardian Discipline Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Corrupted Guardian Discipline Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Corrupted Guardian Lifetap",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Corrupted Guardian Lifetap II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Corrupted Guardian Lifetap III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Grisly Blade",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Grisly Blade Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Grisly Blade Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Agitation",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Agitation II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Agitation III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Influence",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Influence Heal",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Influence Heal II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Influence Heal III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Influence Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Influence Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Reward",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Reward II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Ignominious Reward III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Parlay for Power",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Parlay for Power Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Parlay for Power Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Plague of Fleshrot",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Plague of Fleshrot Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Plague of Fleshrot Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Shroud of Zelinstein",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Shroud of Zelinstein Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Shroud of Zelinstein Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Usurper's Audacity",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Usurper's Audacity Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Usurper's Audacity Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Virulent Darkness",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Virulent Darkness Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 117,
+    "name": "Virulent Darkness Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Aten Ha Ra's Covenant",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Aten Ha Ra's Covenant Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Aten Ha Ra's Covenant Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Mantle",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Mantle Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Mantle Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Shattering",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Shattering II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Fyrthek Shattering III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Gift of Itzal",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Gift of Itzal Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Gift of Itzal Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Insidious Renunciation",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Insidious Renunciation Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Insidious Renunciation Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Minion of Itzal",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Minion of Itzal Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Minion of Itzal Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Penumbral Disruption",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Penumbral Disruption Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Penumbral Disruption Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Repudiate",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Repudiate Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Repudiate Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Carapace",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Carapace Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Carapace Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Lifedraw",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Lifedraw II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 118,
+    "name": "Xetheg's Lifedraw III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Adamant Stance",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Adamant Stance Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Adamant Stance Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Antipathy",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Antipathy Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Antipathy Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Bloodletting Conjunction",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Bloodletting Conjunction Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Bloodletting Conjunction Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Despicable Bargain",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Despicable Bargain Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Despicable Bargain Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Drape of the Akheva",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Drape of the Akheva Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Drape of the Akheva Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Penumbral Call",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Penumbral Call Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Penumbral Call Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Spear of Bloodwretch",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Spear of Bloodwretch Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Spear of Bloodwretch Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Unrelenting Acrimony",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Unrelenting Acrimony Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Unrelenting Acrimony Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Unscrupulous Blight",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Unscrupulous Blight Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 119,
+    "name": "Unscrupulous Blight Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dire Censure",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dire Censure Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dire Censure Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dire Seizure",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dire Seizure Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Dire Seizure Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Gift of Namdrows",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Gift of Namdrows II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Gift of Namdrows III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Impenitent Demeanor",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Impenitent Demeanor Rk. II",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Impenitent Demeanor Rk. III",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Sanguine Blade",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Sanguine Blade Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Sanguine Blade Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Torrent of Melancholy",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Torrent of Melancholy Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Torrent of Melancholy Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Touch of Namdrows",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Touch of Namdrows Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Touch of Namdrows Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Touch of Txiki",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Touch of Txiki Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Touch of Txiki Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Xenacious' Skin",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Xenacious' Skin Rk. II",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 120,
+    "name": "Xenacious' Skin Rk. III",
+    "expansion": "ToL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Bond of Tatalros",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Bond of Tatalros Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Bond of Tatalros Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Charka's Bite",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Charka's Bite Recourse",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Charka's Bite Recourse II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Charka's Bite Recourse III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Charka's Bite Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Charka's Bite Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Convalesce Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Death's Proclamation",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Goblin Skin",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Goblin Skin Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Goblin Skin Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Mental Wretchedness",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Mental Wretchedness Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Mental Wretchedness Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Mortimus' Horror",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Mortimus' Horror Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Mortimus' Horror Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Terror of Tarantis",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Terror of Tarantis Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 121,
+    "name": "Terror of Tarantis Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Blood of Shoru",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Blood of Shoru Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Blood of Shoru Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Incapacitating Blade",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Incapacitating Blade Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Incapacitating Blade Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Oppressor's Audacity",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Oppressor's Audacity Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Oppressor's Audacity Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Petition for Power",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Petition for Power Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Petition for Power Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Plague of the Fleawalker",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Plague of the Fleawalker Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Plague of the Fleawalker Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shroud of Rimeclaw",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shroud of Rimeclaw Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Shroud of Rimeclaw Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Vitriolic Darkness",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Vitriolic Darkness Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 122,
+    "name": "Vitriolic Darkness Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Geomimus Mantle",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Geomimus Mantle Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Geomimus Mantle Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Geomimus Shattering",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Geomimus Shattering II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Geomimus Shattering III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Gift of Fandrel",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Gift of Fandrel Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Gift of Fandrel Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Gird",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Gird Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Gird Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Insidious Repudiation",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Insidious Repudiation Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Insidious Repudiation Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kanghammer's Carapace",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kanghammer's Carapace Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kanghammer's Carapace Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kanghammer's Lifedraw",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kanghammer's Lifedraw II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kanghammer's Lifedraw III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kar's Covenant",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kar's Covenant Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Kar's Covenant Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Minion of Fandrel",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Minion of Fandrel Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 123,
+    "name": "Minion of Fandrel Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Animus",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Animus Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Animus Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Call of Blight",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Call of Blight Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Call of Blight Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Drape of the Ankexfen",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Drape of the Ankexfen Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Drape of the Ankexfen Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Odious Bargain",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Odious Bargain Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Odious Bargain Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Spear of Lazam",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Spear of Lazam Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Spear of Lazam Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Unconditional Acrimony",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Unconditional Acrimony Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Unconditional Acrimony Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Unwavering Stance",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Unwavering Stance Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Unwavering Stance Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Vitriolic Blight",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Vitriolic Blight Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 124,
+    "name": "Vitriolic Blight Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Dire Rebuke",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Dire Rebuke Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Dire Rebuke Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Dire Squelch",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Dire Squelch Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Dire Squelch Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Gift of Mortimus",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Gift of Mortimus II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Gift of Mortimus III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Incarnadine Blade",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Incarnadine Blade Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Incarnadine Blade Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Krizad's Skin",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Krizad's Skin Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Krizad's Skin Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Torrent of Desolation",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Torrent of Desolation Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Torrent of Desolation Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Touch of Flariton",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Touch of Flariton Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Touch of Flariton Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Touch of Mortimus",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Touch of Mortimus Rk. II",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 125,
+    "name": "Touch of Mortimus Rk. III",
+    "expansion": "LS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Bite 1",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Bite 2",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Bite 3",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Bite 4",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Bite 5",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Composite Bite 6",
+    "expansion": "CoV",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Bite 1",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Bite 2",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Bite 3",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Bite 4",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Bite 5",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dichotomic Bite 6",
+    "expansion": "TBM",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Bite 1",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Bite 2",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Bite 3",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Bite 4",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Bite 5",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Dissident Bite 6",
+    "expansion": "TBL",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Bite 1",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Bite 2",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Bite 3",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Bite 4",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Bite 5",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  },
+  {
+    "level": 250,
+    "name": "Ecliptic Bite 6",
+    "expansion": "NoS",
+    "url": "",
+    "merchants": []
+  }
+]
